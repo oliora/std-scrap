@@ -3,6 +3,7 @@ from __future__ import print_function
 from lxml import html
 import re
 import urlparse
+import codecs
 
 import sys
 import json
@@ -27,14 +28,14 @@ class Doc(object):
 #        return str(self.__dict__)
         
     def __repr__(self):
-        return str(self.__dict__)
+        return unicode(self.__dict__)
         
 
-_subgroups_splitter = re.compile(r',|/|\\')
-_doc_number_re = re.compile(r'(?:N\d+)|(?:SD-\d+)')
-_j16_doc_number_ref_re = re.compile(r'(N\d+)(?:\s*=\s*\d{2}-\d{4})?')
-_date_re = re.compile(r'(?:(\d{2}|\d{4})(?:--?|/)(\d{1,2})(?:(?:[-/])(\d{1,2}))?)')  # There is bug where date looks like YYYY--MM
-_date2_re = re.compile(r'(\d{4})(\d{2})(\d{2})')  # YYYYMMDD
+_subgroups_splitter = re.compile(ur',|/|\\', re.UNICODE)
+_doc_number_re = re.compile(ur'(?:N\d+)|(?:SD[-\u2010]\d+)', re.UNICODE)
+_j16_doc_number_ref_re = re.compile(ur'(N\d+)(?:\s*=\s*\d{2}[-\u2010]\d{4})?', re.UNICODE)
+_date_re = re.compile(ur'(?:(\d{2}|\d{4})(?:--?|/|\u2010)(\d{1,2})(?:(?:[-/\u2010])(\d{1,2}))?)', re.UNICODE)  # There is bug where date looks like YYYY--MM
+_date2_re = re.compile(ur'(\d{4})(\d{2})(\d{2})', re.UNICODE)  # YYYYMMDD
 
 
 def parse_authors(e):
@@ -55,7 +56,7 @@ def parse_plain(e):
 def parse_doc_number(e):
     r = e.text_content().strip()
     if r and not _doc_number_re.match(r):
-        raise ValueError('Bad document number: {0}'.format(r))
+        raise ValueError(u'Bad document number: {0}'.format(r))
     return r
     
 def parse_j16_doc_ref(e):
@@ -64,7 +65,7 @@ def parse_j16_doc_ref(e):
         return ''
     m = _j16_doc_number_ref_re.match(txt)
     if not m:
-        raise ValueError('Bad J16 document reference: {0}'.format(txt))
+        raise ValueError(u'Bad J16 document reference: {0}'.format(txt))
     return m.group(1)
 
     
@@ -86,7 +87,7 @@ def parse_date(e):
     if not m:
         m = _date2_re.match(txt)
         if not m:
-            raise ValueError('Bad document date: {0}'.format(txt))
+            raise ValueError(u'Bad document date: {0}'.format(txt))
     year = int(m.group(1))
     if year <= 99:
         year += 2000
@@ -96,7 +97,41 @@ def parse_date(e):
         return "{0}-{1:02}".format(year, int(m.group(2)))
 
 
-class ModernTableParser(object):
+class DocParseException(Exception):
+    def __init__(self, doc, msg):
+        super(DocParseException, self).__init__(msg)
+        self.__doc = doc
+
+    @property
+    def doc(self):
+        return self.__doc
+
+
+class BaseTableParser(object):
+    @classmethod
+    def can_parse(cls, table):
+        headers = table.xpath('tr[1]/th/text()|tbody/tr[1]/th/text()')
+        return cls.do_can_parse(headers)
+
+    def parse(self, table):
+        docs = []
+        errors = []
+        for r in table.xpath('tr|tbody/tr'):
+            row = r.xpath('td')
+            if not len(row):
+                continue
+            try:
+                doc = self.do_parse(row)
+                if doc is not None:
+                    docs.append(doc)
+            except DocParseException, e:
+                errors.append((self.__class__.__name__, e.doc, unicode(e)))
+            except Exception, e:
+                errors.append((self.__class__.__name__, None, unicode(e)))
+        return docs, errors
+
+
+class ModernTableParser(BaseTableParser):
     """
     Modern table
     ------------
@@ -113,38 +148,33 @@ class ModernTableParser(object):
         'Disposition'
     """
     @classmethod
-    def can_parse(cls, table):
-        headers = table.xpath('tr[1]/th/text()|tbody/tr[1]/th/text()')
+    def do_can_parse(cls, headers):
         return headers == ['WG21 Number', 'Title', 'Author', 'Document Date', 'Mailing Date',
                            'Previous Version', 'Subgroup', 'Disposition']
 
-    def parse(self, table):
+    def do_parse(self, row):
         self
-        docs = []
-        for r in table.xpath('tr|tbody/tr'):
-            row = r.xpath('td')
-            if not len(row):
-                continue
-            try:
-                if len(row) != 8:
-                    raise ValueError("Wrong number of columns")
-                doc = Doc(number=parse_doc_number(row[0]),
-                          title=parse_plain(row[1]),
-                          authors=parse_authors(row[2]),
-                          url=parse_doc_url(row[0]),
-                          date=parse_date(row[3]),
-                          mailing_date=parse_date(row[4]),
-                          prev_version=parse_doc_number(row[5]),
-                          subgroups=parse_subgroups(row[6]),
-                          disposition=parse_disposition(row[7])
-                          )
-                docs.append(doc)
-            except:
-                pass
-        return docs
+        doc_number = parse_doc_number(row[0])
+
+        try:
+            if len(row) != 8:
+                raise ValueError("Wrong number of columns")
+
+            return Doc(number=doc_number,
+                       title=parse_plain(row[1]),
+                       authors=parse_authors(row[2]),
+                       url=parse_doc_url(row[0]),
+                       date=parse_date(row[3]),
+                       mailing_date=parse_date(row[4]),
+                       prev_version=parse_doc_number(row[5]),
+                       subgroups=parse_subgroups(row[6]),
+                       disposition=parse_disposition(row[7])
+                       )
+        except Exception, e:
+            raise DocParseException(doc_number, e.message)
 
 
-class J16TransitionTableParser(object):
+class J16TransitionTableParser(BaseTableParser):
     """
     Transition between old J16 and modern tables
     ---------
@@ -162,38 +192,33 @@ class J16TransitionTableParser(object):
         'Disposition'
     """
     @classmethod
-    def can_parse(cls, table):
-        headers = table.xpath('tr[1]/th/text()|tbody/tr[1]/th/text()')
+    def do_can_parse(cls, headers):
         return headers == ['WG21 Number', 'PL22.16 Number', 'Title', 'Author', 'Document Date', 'Mailing Date',
                            'Previous Version', 'Subgroup', 'Disposition']
 
-    def parse(self, table):
+    def do_parse(self, row):
         self
-        docs = []
-        for r in table.xpath('tr|tbody/tr'):
-            row = r.xpath('td')
-            if not len(row):
-                continue
-            try:
-                if len(row) != 9:
-                    raise ValueError("Wrong number of columns")
-                doc = Doc(number=parse_doc_number(row[0]),
-                          title=parse_plain(row[2]),
-                          authors=parse_authors(row[3]),
-                          url=parse_doc_url(row[0]),
-                          date=parse_date(row[4]),
-                          mailing_date=parse_date(row[5]),
-                          prev_version=parse_j16_doc_ref(row[6]),
-                          subgroups=parse_subgroups(row[7]),
-                          disposition=parse_disposition(row[8])
-                          )
-                docs.append(doc)
-            except:
-                pass
-        return docs        
+        doc_number = parse_doc_number(row[0])
+
+        try:
+            if len(row) != 9:
+                raise ValueError("Wrong number of columns")
+
+            return Doc(number=parse_doc_number(row[0]),
+                       title=parse_plain(row[2]),
+                       authors=parse_authors(row[3]),
+                       url=parse_doc_url(row[0]),
+                       date=parse_date(row[4]),
+                       mailing_date=parse_date(row[5]),
+                       prev_version=parse_j16_doc_ref(row[6]),
+                       subgroups=parse_subgroups(row[7]),
+                       disposition=parse_disposition(row[8])
+                       )
+        except Exception, e:
+            raise DocParseException(doc_number, e.message)
 
 
-class J16TableParser(object):
+class J16TableParser(BaseTableParser):
     """
     J16 table
     ---------
@@ -210,35 +235,31 @@ class J16TableParser(object):
         'Subgroup'
     """
     @classmethod
-    def can_parse(cls, table):
-        headers = table.xpath('tr[1]/th/text()|tbody/tr[1]/th/text()')
-        return (headers == ['WG21 Number', 'J16 Number', 'Title', 'Author', 'Document Date', 'Mailing Date',
-                            'Previous Version', 'Subgroup'] or
-                headers == ['WG21 Number', 'PL22.16 Number', 'Title', 'Author', 'Document Date', 'Mailing Date',
-                            'Previous Version', 'Subgroup'])
+    def do_can_parse(cls, headers):
+        return (len(headers) == 8 and
+                headers[0] == 'WG21 Number' and (headers[1] == 'J16 Number' or headers[1] == 'PL22.16 Number') and
+                headers[2] == 'Title' and headers[3] == 'Author' and headers[4] == 'Document Date' and
+                headers[5] == 'Mailing Date' and headers[6] == 'Previous Version' and headers[7] == 'Subgroup')
 
-    def parse(self, table):
-        docs = []
-        for r in table.xpath('tr|tbody/tr'):
-            row = r.xpath('td')
-            if not len(row):
-                continue
-            try:
-                if len(row) != 8:
-                    raise ValueError("Wrong number of columns")
-                doc = Doc(number=parse_doc_number(row[0]),
-                          title=parse_plain(row[2]),
-                          authors=parse_authors(row[3]),
-                          url=parse_doc_url(row[0]),
-                          date=parse_date(row[4]),
-                          mailing_date=parse_date(row[5]),
-                          prev_version=parse_j16_doc_ref(row[6]),
-                          subgroups=parse_subgroups(row[7])
-                          )
-                docs.append(doc)
-            except:
-                pass
-        return docs        
+    def do_parse(self, row):
+        self
+        doc_number = parse_doc_number(row[0])
+
+        try:
+            if len(row) != 8:
+                raise ValueError("Wrong number of columns")
+
+            return Doc(number=parse_doc_number(row[0]),
+                       title=parse_plain(row[2]),
+                       authors=parse_authors(row[3]),
+                       url=parse_doc_url(row[0]),
+                       date=parse_date(row[4]),
+                       mailing_date=parse_date(row[5]),
+                       prev_version=parse_j16_doc_ref(row[6]),
+                       subgroups=parse_subgroups(row[7])
+                       )
+        except Exception, e:
+            raise DocParseException(doc_number, unicode(e))
         
 
 class Parser(object):
@@ -267,9 +288,12 @@ class Parser(object):
         ctx = self.Context()
 
         docs = []
+        errors = []
         for t in doc_tables:
-            docs += self.__parse_table(ctx, t)
-        return docs
+            r = self.__parse_table(ctx, t)
+            docs += r[0]
+            errors += r[1]
+        return docs, errors
             
     def __parse_table(self, ctx, table):
         ctx.last_table_parser = self._find_table_parser(table, ctx.last_table_parser)
@@ -278,13 +302,17 @@ class Parser(object):
 
 def main():
     input_filename = sys.argv[1]
-    docs = Parser().parse(input_filename)
+    docs, errors = Parser().parse(input_filename)
 
     class MyEncoder(json.JSONEncoder):
         def default(self, o):
             return o.__dict__
 
     print(json.dumps(docs, indent=2, cls=MyEncoder))
+
+    for e in errors:
+        print(codecs.encode(u'[{0}] Error when parsing doc \'{1}\': {2}'.format(e[0], e[1] if e[1] else '', e[2]), 'ascii', 'xmlcharrefreplace'), file=sys.stderr)
+    sys.exit(0 if not errors else 1 if docs else 2)
     #print(json.dumps(docs, indent=2))
 
 
