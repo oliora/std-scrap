@@ -1,4 +1,9 @@
+# coding=utf-8
+
 from __future__ import print_function
+
+__author__ = "oliora"
+__copyright__ = "Copyright (C) 2015 oliora"
 
 from lxml import html
 import re
@@ -34,7 +39,7 @@ class Doc(object):
 _subgroups_splitter = re.compile(ur',|/|\\', re.UNICODE)
 _doc_number_re = re.compile(ur'(?:N\d+)|(?:SD[-\u2010]\d+)', re.UNICODE)
 _j16_doc_number_ref_re = re.compile(ur'(N\d+)(?:\s*=\s*\d{2}[-\u2010]\d{4})?', re.UNICODE)
-_date_re = re.compile(ur'(?:(\d{2}|\d{4})(?:--?|/|\u2010)(\d{1,2})(?:(?:[-/\u2010])(\d{1,2}))?)', re.UNICODE)  # There is bug where date looks like YYYY--MM
+_date_re = re.compile(ur'(?:(\d{2}|\d{4})(?:--?|/|\u2010)(\d{1,2})(?:(?:[-/\u2010])(\d{1,2}))?)', re.UNICODE)  # There is docs where date looks like YYYY--MM
 _date2_re = re.compile(ur'(\d{4})(\d{2})(\d{2})', re.UNICODE)  # YYYYMMDD
 
 
@@ -204,7 +209,7 @@ class J16TransitionTableParser(BaseTableParser):
             if len(row) != 9:
                 raise ValueError("Wrong number of columns")
 
-            return Doc(number=parse_doc_number(row[0]),
+            return Doc(number=doc_number,
                        title=parse_plain(row[2]),
                        authors=parse_authors(row[3]),
                        url=parse_doc_url(row[0]),
@@ -249,7 +254,7 @@ class J16TableParser(BaseTableParser):
             if len(row) != 8:
                 raise ValueError("Wrong number of columns")
 
-            return Doc(number=parse_doc_number(row[0]),
+            return Doc(number=doc_number,
                        title=parse_plain(row[2]),
                        authors=parse_authors(row[3]),
                        url=parse_doc_url(row[0]),
@@ -294,7 +299,7 @@ class Parser(object):
             docs += r[0]
             errors += r[1]
         return docs, errors
-            
+
     def __parse_table(self, ctx, table):
         ctx.last_table_parser = self._find_table_parser(table, ctx.last_table_parser)
         return ctx.last_table_parser().parse(table)
@@ -311,7 +316,7 @@ def main():
     print(json.dumps(docs, indent=2, cls=MyEncoder))
 
     for e in errors:
-        print(codecs.encode(u'[{0}] Error when parsing doc \'{1}\': {2}'.format(e[0], e[1] if e[1] else '', e[2]), 'ascii', 'xmlcharrefreplace'), file=sys.stderr)
+        print(codecs.encode(u'Error when parsing doc \'{1}\': {2} [{0}]'.format(e[0], e[1] if e[1] else '', e[2]), 'ascii', 'xmlcharrefreplace'), file=sys.stderr)
     sys.exit(0 if not errors else 1 if docs else 2)
     #print(json.dumps(docs, indent=2))
 
