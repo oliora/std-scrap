@@ -8,10 +8,6 @@ __copyright__ = "Copyright (C) 2015 oliora"
 from lxml import html
 import re
 import urlparse
-import codecs
-
-import sys
-import json
 
 
 class Doc(object):
@@ -305,20 +301,71 @@ class Parser(object):
         return ctx.last_table_parser().parse(table)
 
 
+def parse(url):
+    return Parser().parse(url)
+
+
+def parse_all(urls):
+    d = []
+    e = []
+    for url in urls:
+        d1, e1 = parse(url)
+        d.extend(d1)
+        e.extend(e1)
+    return d, e
+
+
+"""
+    Ideas:
+    TODO: add option to read URLs from file
+    TODO: add option to read URLs from stdin
+    TODO: add option --year to specify year instead of url (URL is http://www.open-std.org/jtc1/sc22/wg21/docs/papers/{0}/)
+          think to make this default behavior and accept both year and years range like 2004-2015
+"""
+
 def main():
-    input_filename = sys.argv[1]
-    docs, errors = Parser().parse(input_filename)
+    import sys
+    import json
+    import argparse
+    import codecs
+
+    parser = argparse.ArgumentParser(description='Parse std documents.')
+    parser.add_argument('url', nargs='+', help='URL(s) to parse')
+    parser.add_argument('--output', help='Write output to file')
+    parser.add_argument('--pretty', action='store_true', help='Print in pretty format')
+
+    args = parser.parse_args()
+
+    if args.output:
+        output_file = open(args.output, 'w')
+    else:
+        output_file = sys.stdout
+
+    docs, errors = parse_all(args.url)
 
     class MyEncoder(json.JSONEncoder):
         def default(self, o):
             return o.__dict__
 
-    print(json.dumps(docs, indent=2, cls=MyEncoder))
+    if args.pretty:
+        print(json.dumps(docs, indent=2, cls=MyEncoder), file=output_file)
+    else:
+        print(json.dumps(docs, cls=MyEncoder), file=output_file)
 
     for e in errors:
-        print(codecs.encode(u'Error when parsing doc \'{1}\': {2} [{0}]'.format(e[0], e[1] if e[1] else '', e[2]), 'ascii', 'xmlcharrefreplace'), file=sys.stderr)
+        print(codecs.encode(u'Error when parsing doc \'{1}\': {2} [{0}]'.format(e[0], e[1] if e[1] else '', e[2]),
+                            'ascii', 'xmlcharrefreplace'), file=sys.stderr)
+
+    # TODO: beautify output for singular amount.
+    if args.output:
+        if errors:
+            print('\nParsed {0} documents from {1} URLs. {2} errors detected'.format(
+                len(docs), len(args.url), len(errors)))
+        else:
+            print('\nParsed {0} documents from {1} URLs. No errors detected'.format(
+                len(docs), len(args.url)))
+
     sys.exit(0 if not errors else 1 if docs else 2)
-    #print(json.dumps(docs, indent=2))
 
 
 if __name__ == "__main__":
