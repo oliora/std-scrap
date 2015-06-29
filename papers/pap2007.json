@@ -1,0 +1,5189 @@
+[
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-01-15", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and INCITS J16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "State of C++ Evolution (between Portland and Oxford 2007 Meetings)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2142.html", 
+    "number": "N2142", 
+    "prev_version": "N2122", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal for an Infinite Precision Integer for Library Technical Report 2, Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2143.pdf", 
+    "number": "N2143", 
+    "prev_version": "N2020", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "M.J. Kronenburg"
+    ], 
+    "date": "2007-01-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal for exact specification of is modulo", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2144.pdf", 
+    "number": "N2144", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "M.J. Kronenburg"
+    ], 
+    "date": "2007-01-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Atomic Types and Operations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2145.html", 
+    "number": "N2145", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Raw String Literals (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2146.html", 
+    "number": "N2146", 
+    "prev_version": "N2053", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-01-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread-Local Storage", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2147.html", 
+    "number": "N2147", 
+    "prev_version": "N1966", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-01-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Dynamic Initialization and Destruction with Concurrency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2148.html", 
+    "number": "N2148", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-01-13", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "New Character Types in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2149.html", 
+    "number": "N2149", 
+    "prev_version": "N2018", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-01-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extending sizeof to apply to non-static data members without an object", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2150.html", 
+    "number": "N2150", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2007-01-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Variadic Templates for the C++0x Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2151.pdf", 
+    "number": "N2151", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0J\u00e4rvi", 
+      ""
+    ], 
+    "date": "2007-01-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Variadic Templates", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2152.pdf", 
+    "number": "N2152", 
+    "prev_version": "N2080", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0J\u00e4rvi", 
+      "J.\u00a0Maurer", 
+      "J.\u00a0Merrill"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A simple and efficient memory model for weakly-ordered architectures", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2153.pdf", 
+    "number": "N2153", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "R.\u00a0Silvera", 
+      "M.\u00a0Wong", 
+      "P.\u00a0McKenney", 
+      "B.\u00a0Blainey"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R46)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2154.html", 
+    "number": "N2154", 
+    "prev_version": "N2130", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R46)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2155.html", 
+    "number": "N2155", 
+    "prev_version": "N2131", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R46)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2156.html", 
+    "number": "N2156", 
+    "prev_version": "N2132", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minor Modifications to the type traits Wording Revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2157.html", 
+    "number": "N2157", 
+    "prev_version": "N2028", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "LWG Issue 206: Linking new/delete operators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2158.html", 
+    "number": "N2158", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2006-11-13", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "UTF-8 String Literals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2159.html", 
+    "number": "N2159", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-01-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Library Issue 96: Fixing vector<bool>", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2160.html", 
+    "number": "N2160", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Considering Concept Constraint Combinators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2161.pdf", 
+    "number": "N2161", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "A.\u00a0Lumsdaine"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 45", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2162.html", 
+    "number": "N2162", 
+    "prev_version": "N2125", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 45", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2163.html", 
+    "number": "N2163", 
+    "prev_version": "N2126", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 45", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2164.html", 
+    "number": "N2164", 
+    "prev_version": "N2127", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding Alignment Support to the C++ Programming Language / Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2165.pdf", 
+    "number": "N2165", 
+    "prev_version": "N2140", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Attila (Farkas) Feh\u00e9r"
+    ], 
+    "date": "2007-01-14", 
+    "subgroups": [
+      "Core", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2166.htm", 
+    "number": "N2166", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Overview of Linux-Kernel Reference Counting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2167.pdf", 
+    "number": "N2167", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2007-01-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "July 2007 Meeting of WG21/J16 Travel Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2168.html", 
+    "number": "N2168", 
+    "prev_version": "", 
+    "mailing_date": "2007-01", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-01-14", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-03-13", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and INCITS J16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "State of C++ Evolution (pre-Oxford 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2169.html", 
+    "number": "N2169", 
+    "prev_version": "N2142", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Universal Character Names in Literals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2170.html", 
+    "number": "N2170", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-02-02", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Sequencing and the concurrency memory model (revised)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2171.htm", 
+    "number": "N2171", 
+    "prev_version": "N2052", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "C.\u00a0Nelson", 
+      "H.-J.\u00a0Boehm"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Core", 
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "POD's Revisited; Resolving Core Issue 568 (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2172.html", 
+    "number": "N2172", 
+    "prev_version": "N2102", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Core Extensions for Evolution", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2173.html", 
+    "number": "N2173", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Diagnostics Enhancements for C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2174.html", 
+    "number": "N2174", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-03-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Networking Library Proposal for TR2 (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2175.pdf", 
+    "number": "N2175", 
+    "prev_version": "N2054", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Christopher Kohlhoff"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Memory Model Rationales", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2176.html", 
+    "number": "N2176", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Sequential Consistency for Atomics", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2177.html", 
+    "number": "N2177", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Text for Chapter 30, Thread Support Library [threads]", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2178.html", 
+    "number": "N2178", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Peter Dimov"
+    ], 
+    "date": "2007-03-03", 
+    "subgroups": [
+      "Evolution", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Language Support for Transporting Exceptions between Threads", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2179.html", 
+    "number": "N2179", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Peter Dimov"
+    ], 
+    "date": "2007-03-03", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R47)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2180.html", 
+    "number": "N2180", 
+    "prev_version": "N2154", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R47)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2181.html", 
+    "number": "N2181", 
+    "prev_version": "N2155", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R47)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2182.html", 
+    "number": "N2182", 
+    "prev_version": "N2156", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Issues From Batavia", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2183.html", 
+    "number": "N2183", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2007-03-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread Launching for C++0X", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2184.html", 
+    "number": "N2184", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Text for Parallel Task Execution", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2185.html", 
+    "number": "N2185", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Peter Dimov"
+    ], 
+    "date": "2007-03-06", 
+    "subgroups": [
+      "Evolution", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Some Small Additions to iostream", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2186.html", 
+    "number": "N2186", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "James Kanze"
+    ], 
+    "date": "2007-03-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Names, Linkage, and Templates (rev 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2187.pdf", 
+    "number": "N2187", 
+    "prev_version": "N1945", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Anthony Williams"
+    ], 
+    "date": "2007-03-06", 
+    "subgroups": [
+      "Evolution", 
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 46", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2188.html", 
+    "number": "N2188", 
+    "prev_version": "N2162", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 46", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2189.html", 
+    "number": "N2189", 
+    "prev_version": "N2163", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 46", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2190.html", 
+    "number": "N2190", 
+    "prev_version": "N2164", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Variadic Templates (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2191.pdf", 
+    "number": "N2191", 
+    "prev_version": "N2152", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0J\u00e4rvi", 
+      "J.\u00a0Maurer", 
+      "J.\u00a0Merrill"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Variadic Templates for the C++0x Standard Library (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2192.pdf", 
+    "number": "N2192", 
+    "prev_version": "N2151", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0J\u00e4rvi"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Concepts", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2193.pdf", 
+    "number": "N2193", 
+    "prev_version": "N2081", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "decltype for the C++0x Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2194.pdf", 
+    "number": "N2194", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0J\u00e4rvi"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Text for Chapter 29, Atomic Operations Library [atomics]", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2195.html", 
+    "number": "N2195", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Peter Dimov"
+    ], 
+    "date": "2007-03-07", 
+    "subgroups": [
+      "Evolution", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Wording for range-based for-loop (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2196.html", 
+    "number": "N2196", 
+    "prev_version": "N1961", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2007-03-07", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Prism: A Principle-Based Sequential Memory Model for Microsoft Native Code Platforms", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2197.pdf", 
+    "number": "N2197", 
+    "prev_version": "N2075", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extension for the programming language C++ to support decimal floating-point arithmetic", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2198.pdf", 
+    "number": "N2198", 
+    "prev_version": "N1977", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Improved min/max", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2199.html", 
+    "number": "N2199", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Operator Overloading", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2200.pdf", 
+    "number": "N2200", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "G.\u00a0Powell", 
+      "D.\u00a0Gregor", 
+      "J.\u00a0J\u00e4rvi"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "AGENDA J16 Meeting No. 44 WG21 Meeting No. 39 April 16-20, 2006, Oxford, UK", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2201.pdf", 
+    "number": "N2201", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Steve Clamage"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C99 Compatibility : __func__ and predeclared identifiers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2202.html", 
+    "number": "N2202", 
+    "prev_version": "N1970", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Alisdair Meredith", 
+      "Jens Maurer"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Inheriting Constructors", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2203.html", 
+    "number": "N2203", 
+    "prev_version": "N2119", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "A.\u00a0Meredith", 
+      "M.\u00a0Wong", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Specification to deprecate vector<bool>", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2204.html", 
+    "number": "N2204", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Consistent Insertion into Standard Containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2206.html", 
+    "number": "N2206", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minimal Unicode support for the standard library (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2207.html", 
+    "number": "N2207", 
+    "prev_version": "N2035", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Matthew Austern"
+    ], 
+    "date": "2007-03-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "UTF-8 String Literals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2209.html", 
+    "number": "N2209", 
+    "prev_version": "N2159", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Defaulted and Deleted Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2210.html", 
+    "number": "N2210", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Enhancing the time_get facet for POSIX\u00ae compatibility, Revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2211.html", 
+    "number": "N2211", 
+    "prev_version": "N2070", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Martin Sebor"
+    ], 
+    "date": "2007-03-10", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Support for sequence in-place construction", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2212.html", 
+    "number": "N2212", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Strongly Typed Enums (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2213.pdf", 
+    "number": "N2213", 
+    "prev_version": "N1719", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "H. Sutter", 
+      "D. Miller", 
+      "B. Stroustrup"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A name for the null pointer: nullptr (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2214.pdf", 
+    "number": "N2214", 
+    "prev_version": "N1601", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "H. Sutter", 
+      "B. Stroustrup"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Initializer lists (Rev. 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2215.pdf", 
+    "number": "N2215", 
+    "prev_version": "N2100", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Report on language support for Multi-Methods and Open-Methods for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2216.pdf", 
+    "number": "N2216", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "P.\u00a0Pirkelbauer", 
+      "Y.\u00a0Solodkyy", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Placement Insert for Containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2217.pdf", 
+    "number": "N2217", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Alan Talbot"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Constant Expressions in the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2219.pdf", 
+    "number": "N2219", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "G.\u00a0Dos\u00a0Reis", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Initializer Lists for Standard Containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2220.pdf", 
+    "number": "N2220", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "G.\u00a0Dos\u00a0Reis", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "An analysis of concept intersection", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2221.pdf", 
+    "number": "N2221", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Toronto Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2222.htm", 
+    "number": "N2222", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit Conversion Operator Draft Working Paper", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2223.pdf", 
+    "number": "N2223", 
+    "prev_version": "N1592", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "L.\u00a0Goldthwaite", 
+      "M.\u00a0Wong"
+    ], 
+    "date": "2007-03-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Seeking a Syntax for Attributes in C++09", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2224.html", 
+    "number": "N2224", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Improved integration with C arrays and strings", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2225.html", 
+    "number": "N2225", 
+    "prev_version": "", 
+    "mailing_date": "2007-03", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2007-03-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-05-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and INCITS J16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-05-04", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "State of C++ Evolution (pre-Oxford 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2228.html", 
+    "number": "N2228", 
+    "prev_version": "N2169", 
+    "mailing_date": "2007-05",
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-05-03",
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Cloning and Throwing Dynamically Typed Exceptions (Rev 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2229.html", 
+    "number": "N2229", 
+    "prev_version": "N2106", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-05-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "POD's Revisited; Resolving Core Issue 568 (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2230.html", 
+    "number": "N2230", 
+    "prev_version": "N2172", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-04-29", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "STL singly linked lists", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2231.html", 
+    "number": "N2231", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2007-03-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Improving shared_ptr for C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2232.html", 
+    "number": "N2232", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "P.\u00a0Dimov", 
+      "B.\u00a0Dawes"
+    ], 
+    "date": "2007-04-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "basic_string operator <<", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2233.html", 
+    "number": "N2233", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-04-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "French Panel (AFNOR) Position", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2234.html", 
+    "number": "N2234", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "AFNOR"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Generalized Constant Expressions\u2014Revision 5", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2235.pdf", 
+    "number": "N2235", 
+    "prev_version": "N2116", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "G.\u00a0Dos\u00a0Reis", 
+      "B.\u00a0Stroustrup", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-04-17", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Towards support for attributes in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2236.pdf", 
+    "number": "N2236", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "J.\u00a0Maurer", 
+      "M.\u00a0Wong"
+    ], 
+    "date": "2007-05-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A simple and efficient memory model for weakly-ordered architectures", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2237.pdf", 
+    "number": "N2237", 
+    "prev_version": "N2153", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "R.\u00a0Silvera", 
+      "M.\u00a0Wong", 
+      "P.\u00a0McKenney", 
+      "B.\u00a0Blainey"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minimal Unicode support for the standard library (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2238.html", 
+    "number": "N2238", 
+    "prev_version": "N2207", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Matthew Austern"
+    ], 
+    "date": "2007-04-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A finer-grained alternative to sequence points (revised)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2239.html", 
+    "number": "N2239", 
+    "prev_version": "N2171", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Two missing traits: enable_if and conditional", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2240.html", 
+    "number": "N2240", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Benjamin Kosnik"
+    ], 
+    "date": "2007-04-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Diagnostics Enhancements for C++0x (Rev. 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2241.html", 
+    "number": "N2241", 
+    "prev_version": "N2174", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Variadic Templates (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2242.pdf", 
+    "number": "N2242", 
+    "prev_version": "N2191", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0J\u00e4rvi", 
+      "J.\u00a0Maurer", 
+      "J.\u00a0Merrill"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Wording for range-based for-loop (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2243.html", 
+    "number": "N2243", 
+    "prev_version": "N2196", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2007-05-04", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Wording for decay, make_pair and make_tuple", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2244.html", 
+    "number": "N2244", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2006-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Range Utilities for C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2245.html", 
+    "number": "N2245", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2007-04-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2 of the least crazy ideas for the standard library in C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2246.html", 
+    "number": "N2246", 
+    "prev_version": "N2099", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2007-04-16", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Toward a More Perfect Union", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2248.html", 
+    "number": "N2248", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Lois Goldthwaite"
+    ], 
+    "date": "2007-05-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "New Character Types in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2249.html", 
+    "number": "N2249", 
+    "prev_version": "N2149", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C99 Compatibility : __func__ and predeclared identifiers (revision \n\t\t1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2251.html", 
+    "number": "N2251", 
+    "prev_version": "N2203", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "A.\u00a0Meredith", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-04-18", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding Alignment Support to the C++ Programming Language / Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2252.pdf", 
+    "number": "N2252", 
+    "prev_version": "N2165", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "A.\u00a0Feh\u00e9r", 
+      "C.\u00a0Nelson"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Core", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extending sizeof to apply to non-static data members without an \n\t\tobject (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2253.html", 
+    "number": "N2253", 
+    "prev_version": "N2150", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Inheriting Constructors (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2254.html", 
+    "number": "N2254", 
+    "prev_version": "N2203", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "A.\u00a0Meredith", 
+      "M.\u00a0Wong", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-05-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minor Modifications to the type traits Wording Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2255.html", 
+    "number": "N2255", 
+    "prev_version": "N2157", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Container insert/erase and iterator constness", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2256.html", 
+    "number": "N2256", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Matthew Austern"
+    ], 
+    "date": "2007-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Removing unused allocator functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2257.html", 
+    "number": "N2257", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Matthew Austern"
+    ], 
+    "date": "2007-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Templates Aliases", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2258.pdf", 
+    "number": "N2258", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "G.\u00a0Dos\u00a0Reis", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Core?"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Specify header dependency for <iostream>", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2259.html", 
+    "number": "N2259", 
+    "prev_version": "N2186", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Data-Dependency Ordering", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2260.html", 
+    "number": "N2260", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2007-04-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Optimization-robust finalization", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2261.html", 
+    "number": "N2261", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "M.\u00a0Spertus"
+    ], 
+    "date": "2007-05-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit Memory Fences", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2262.html", 
+    "number": "N2262", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "R.\u00a0Silvera", 
+      "P.\u00a0Dimov"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 47", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2263.html", 
+    "number": "N2263", 
+    "prev_version": "N2188", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 47", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2264.html", 
+    "number": "N2264", 
+    "prev_version": "N2189", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 47", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2265.html", 
+    "number": "N2265", 
+    "prev_version": "N2190", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of J16 Meeting No. 44/WG21 Meeting No. 39, April 16-20, 2007", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2266.html", 
+    "number": "N2266", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-05-05", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of ISO WG21 Meeting, April 15, 2007", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2267.html", 
+    "number": "N2267", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-05-05", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Placement Insert for Containers (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2268.pdf", 
+    "number": "N2268", 
+    "prev_version": "N2217", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Alan Talbot"
+    ], 
+    "date": "2007-05-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "AGENDA July 16-20, 2007, Toronto, Ontario, Canada", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2269.pdf", 
+    "number": "N2269", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2007-05-04", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Incompatible changes in C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2270.html", 
+    "number": "N2270", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "B.\u00a0Kosnik", 
+      "M.\u00a0Austern"
+    ], 
+    "date": "2007-04-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "EASTL -- Electronic Arts Standard Template Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html", 
+    "number": "N2271", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Paul Pedriana"
+    ], 
+    "date": "2007-04-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Optional Sequential Consistency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2272.pdf", 
+    "number": "N2272", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Nick Maclaren"
+    ], 
+    "date": "2007-05-01", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Non-Memory Actions (Core Aspects)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2273.pdf", 
+    "number": "N2273", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Nick Maclaren"
+    ], 
+    "date": "2007-05-01", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Object Aliasing and Threads", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2274.pdf", 
+    "number": "N2274", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Nick Maclaren"
+    ], 
+    "date": "2007-05-01", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Non-Memory Actions (Library)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2275.pdf", 
+    "number": "N2275", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Nick Maclaren"
+    ], 
+    "date": "2007-05-02", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread Pools and Futures", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2276.html", 
+    "number": "N2276", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Anthony Williams"
+    ], 
+    "date": "2007-05-07", 
+    "subgroups": [
+      "Evolution", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R48)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2277.html", 
+    "number": "N2277", 
+    "prev_version": "N2180", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R48)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2278.html", 
+    "number": "N2278", 
+    "prev_version": "N2181", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R48)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2279.html", 
+    "number": "N2279", 
+    "prev_version": "N2182", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread-Local Storage", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2280.html", 
+    "number": "N2280", 
+    "prev_version": "N2147", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-05-02", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Digit Separators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2281.html", 
+    "number": "N2281", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-05-02", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extensible Literals (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2282.pdf", 
+    "number": "N2282", 
+    "prev_version": "N1892", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "I.\u00a0McIntosh", 
+      "M.\u00a0Wong", 
+      "R.\u00a0Mak", 
+      "R.\u00a0Klarer"
+    ], 
+    "date": "2007-05-06", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Editor's report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2283.html", 
+    "number": "N2283", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-05-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2284.pdf", 
+    "number": "N2284", 
+    "prev_version": "N2134", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-05-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Multi-threading Library for Standard C++, Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2285.html", 
+    "number": "N2285", 
+    "prev_version": "N1907", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-05-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Programmer Directed GC for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2286.pdf", 
+    "number": "N2286", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Michael Spertus"
+    ], 
+    "date": "2007-04-16", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Transparent Programmer-Directed Garbage Collection for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2287.pdf", 
+    "number": "N2287", 
+    "prev_version": "N2128", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "M.\u00a0Spertus"
+    ], 
+    "date": "2007-05-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Constant Expressions in the Standard Library \u2014Revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2288.pdf", 
+    "number": "N2288", 
+    "prev_version": "N2219", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "G.\u00a0Dos\u00a0Reis", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-05-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "October 2007 Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2289.pdf", 
+    "number": "N2289", 
+    "prev_version": "", 
+    "mailing_date": "2007-05", 
+    "authors": [
+      "Tom Plum"
+    ], 
+    "date": "2007-05-04", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-06-26", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and INCITS J16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-06-23", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Business plan and convenor's report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2290.htm", 
+    "number": "N2290", 
+    "prev_version": "N2021", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": null, 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "State of C++ Evolution (Toronto 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2291.html", 
+    "number": "N2291", 
+    "prev_version": "N2228", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-06-25", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Standard Library Applications for Deleted Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2292.html", 
+    "number": "N2292", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-06-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Standard Library Applications for Explicit Conversion Operators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2293.html", 
+    "number": "N2293", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "POD's Revisited; Resolving Core Issue 568 (Revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2294.html", 
+    "number": "N2294", 
+    "prev_version": "N2230", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-06-21", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Raw and Unicode String Literals; Unified Proposal", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2295.html", 
+    "number": "N2295", 
+    "prev_version": "N2146", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "B.\u00a0Dawes"
+    ], 
+    "date": "2007-06-23", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Diagnostics Enhancements; Resolution of Small Issues", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2296.html", 
+    "number": "N2296", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "B.\u00a0Dawes", 
+      "B.\u00a0Kosnik"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Improving shared_ptr for C++0x, Revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2297.html", 
+    "number": "N2297", 
+    "prev_version": "N2232", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "P.\u00a0Dimov", 
+      "B.\u00a0Dawes"
+    ], 
+    "date": "2007-06-21", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread-Safety in the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2298.html", 
+    "number": "N2298", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "B.\u00a0Dawes", 
+      "P.\u00a0Dimov", 
+      "H.\u00a0Sutter"
+    ], 
+    "date": "2007-06-21", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concatenating tuples", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2299.html", 
+    "number": "N2299", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Joe Gottman"
+    ], 
+    "date": "2007-06-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concurrency memory model (revised)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2300.html", 
+    "number": "N2300", 
+    "prev_version": "N2171", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "C.\u00a0Nelson", 
+      "H.-J.\u00a0Boehm"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Core", 
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding Alignment Support to the C++ Programming Language / Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2301.pdf", 
+    "number": "N2301", 
+    "prev_version": "N2252", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "A.\u00a0Feh\u00e9r", 
+      "C.\u00a0Nelson"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Core", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Revised system_error", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2303.html", 
+    "number": "N2303", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Benjamin Kosnik"
+    ], 
+    "date": "2007-06-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 48", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2304.html", 
+    "number": "N2304", 
+    "prev_version": "N2263", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 48", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2305.html", 
+    "number": "N2305", 
+    "prev_version": "N2264", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 48", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2306.html", 
+    "number": "N2306", 
+    "prev_version": "N2265", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Concepts (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2307.pdf", 
+    "number": "N2307", 
+    "prev_version": "N2193", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-06-25", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding allocator support to std::function for C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2308.html", 
+    "number": "N2308", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Emil Dotchevski"
+    ], 
+    "date": "2007-06-10", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Error-handling and Exception-related library changes for C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2309.html", 
+    "number": "N2309", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Benjamin Kosnik"
+    ], 
+    "date": "2007-06-21", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Transparent Programmer-Directed Garbage Collection for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2310.pdf", 
+    "number": "N2310", 
+    "prev_version": "N2287", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "M.\u00a0Spertus"
+    ], 
+    "date": "2007-06-20", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2008 Fees for Participation on INCITS Technical Committees and Task \n\t\tGroups", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2311.htm", 
+    "number": "N2311", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "INCITS Secretariat"
+    ], 
+    "date": "2007-06-13", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Namespace Regions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2312.pdf", 
+    "number": "N2312", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Michael Spertus"
+    ], 
+    "date": "2007-06-20", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Editor's report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2314.html", 
+    "number": "N2314", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-06-25", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2315.pdf", 
+    "number": "N2315", 
+    "prev_version": "N2284", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-06-25", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Modules in C++ (Revision 5)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2316.pdf", 
+    "number": "N2316", 
+    "prev_version": "N2073", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Daveed Vandevoorde"
+    ], 
+    "date": "2007-06-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R49)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2317.html", 
+    "number": "N2317", 
+    "prev_version": "N2277", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R49)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2318.html", 
+    "number": "N2318", 
+    "prev_version": "N2278", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R49)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2319.html", 
+    "number": "N2319", 
+    "prev_version": "N2279", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Multi-threading Library for Standard C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2320.html", 
+    "number": "N2320", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "H.\u00a0Hinnant", 
+      "B.\u00a0Dawes", 
+      "L.\u00a0Crowl", 
+      "J.\u00a0Garland", 
+      "A.\u00a0Williams"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Enhancing the time_get facet for POSIX\u00ae compatibility, Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2321.html", 
+    "number": "N2321", 
+    "prev_version": "N2211", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Martin Sebor"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concepts for the C++0x Standard Library: Utilities (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2322.pdf", 
+    "number": "N2322", 
+    "prev_version": "N2082", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "A.\u00a0Lumsdaine"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concepts for the C++0x Standard Library: Iterators (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2323.pdf", 
+    "number": "N2323", 
+    "prev_version": "N2083", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0Siek", 
+      "A.\u00a0Lumsdaine"
+    ], 
+    "date": "2007-06-25", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Atomic Types and Operations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2324.html", 
+    "number": "N2324", 
+    "prev_version": "N2145", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Dynamic Initialization and Destruction with Concurrency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2325.html", 
+    "number": "N2325", 
+    "prev_version": "N2148", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Defaulted and Deleted Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2326.html", 
+    "number": "N2326", 
+    "prev_version": "N2210", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Inconsistencies in IOStreams Numeric Extraction", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2327.pdf", 
+    "number": "N2327", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Cosmin Truta"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal for Date-Time Types in C++0x To Support Threading APIs", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2328.html", 
+    "number": "N2328", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Jeff Garland"
+    ], 
+    "date": "2007-06-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Lambda expressions and closures for C++ (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2329.pdf", 
+    "number": "N2329", 
+    "prev_version": "N1968", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "J.\u00a0J\u00e4rvi", 
+      "J.\u00a0Freeman", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-06-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Namespace Association (\"strong\" using)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2331.html", 
+    "number": "N2331", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Jason Merrill"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Argument Deduction for Constructors", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2332.pdf", 
+    "number": "N2332", 
+    "prev_version": "", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "Michael Spertus"
+    ], 
+    "date": "2007-06-20", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit Conversion Operator Draft Working Paper Revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2333.html", 
+    "number": "N2333", 
+    "prev_version": "N2223", 
+    "mailing_date": "2007-06", 
+    "authors": [
+      "L.\u00a0Goldthwaite", 
+      "M.\u00a0Wong", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-06-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-08-06", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concurrency memory model (revised again)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2334.htm", 
+    "number": "N2334", 
+    "prev_version": "N2300", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "C.\u00a0Nelson", 
+      "H.-J.\u00a0Boehm"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "State of C++ Evolution (Toronto 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2336.html", 
+    "number": "N2336", 
+    "prev_version": "N2291", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-07-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "The Syntax of auto Declarations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2337.pdf", 
+    "number": "N2337", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Daveed Vandevoorde"
+    ], 
+    "date": "2007-08-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concurrency memory model compiler consequences", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2338.html", 
+    "number": "N2338", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2007-08-04", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Response to", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2339.htm", 
+    "number": "N2339", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Detlef Vollmann"
+    ], 
+    "date": "2007-07-16", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C99 Compatibility : __func__ and predeclared identifiers (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2340.htm", 
+    "number": "N2340", 
+    "prev_version": "N2251", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "A.\u00a0Meredith", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding Alignment Support to the C++ Programming Language / Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2341.pdf", 
+    "number": "N2341", 
+    "prev_version": "N2301", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "A.\u00a0Feh\u00e9r", 
+      "C.\u00a0Nelson"
+    ], 
+    "date": "2007-07-18", 
+    "subgroups": [
+      "Core", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "POD's Revisited; Resolving Core Issue 568 (Revision 5)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2342.htm", 
+    "number": "N2342", 
+    "prev_version": "N2294", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2007-07-18", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Decltype (revision 7): proposed wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2343.pdf", 
+    "number": "N2343", 
+    "prev_version": "N2115", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "J.\u00a0J\u00e4rvi", 
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2007-07-18", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Placement Insert for Containers (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2345.pdf", 
+    "number": "N2345", 
+    "prev_version": "N2268", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Alan Talbot"
+    ], 
+    "date": "2007-07-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Defaulted and Deleted Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2346.htm", 
+    "number": "N2346", 
+    "prev_version": "N2326", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Strongly Typed Enums (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2347.pdf", 
+    "number": "N2347", 
+    "prev_version": "N2213", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "D. Miller", 
+      "H. Sutter", 
+      "B. Stroustrup"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Wording for std::numeric_limits<T>::lowest()", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2348.pdf", 
+    "number": "N2348", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Marc Paterno"
+    ], 
+    "date": "2007-07-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Constant Expressions in the Standard Library \u2014Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2349.pdf", 
+    "number": "N2349", 
+    "prev_version": "N2288", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "G.\u00a0Dos\u00a0Reis", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Container insert/erase and iterator constness (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2350.pdf", 
+    "number": "N2350", 
+    "prev_version": "N2256", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "M.\u00a0Austern", 
+      "A.\u00a0Talbot"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Improving shared_ptr for C++0x, Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2351.htm", 
+    "number": "N2351", 
+    "prev_version": "N2297", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "P.\u00a0Dimov", 
+      "B.\u00a0Dawes"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Specification for vector<bool>", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2353.html", 
+    "number": "N2353", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Class member initializers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2354.htm", 
+    "number": "N2354", 
+    "prev_version": "N1959", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "M.\u00a0Spertus", 
+      "B.\u00a0Seymour"
+    ], 
+    "date": "2007-07-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of J16 Meeting No. 45/WG21 Meeting No. 40, July 16-20, 2007", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2355.html", 
+    "number": "N2355", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-07-20", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of ISO WG21 Meeting, July 15, 2007", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2356.html", 
+    "number": "N2356", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-07-15", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Data-Dependency Ordering: Atomics", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2359.html", 
+    "number": "N2359", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2007-08-03", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Data-Dependency Ordering: Memory Model", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2360.html", 
+    "number": "N2360", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2007-08-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Data-Dependency Ordering: Function Annotation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2361.html", 
+    "number": "N2361", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2007-08-02", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Converting Memory Fences to", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2362.html", 
+    "number": "N2362", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "P.\u00a0McKenney", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-08-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Library Working Group Status Report (post-Toronto 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2363.html", 
+    "number": "N2363", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-07-29", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Development of C++ Standard C++ Library Technical Report no. 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2364.html", 
+    "number": "N2364", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-07-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit Virtual Overides", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2365.html", 
+    "number": "N2365", 
+    "prev_version": "N2108", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "J.\u00a0Maurer", 
+      "A.\u00a0Meredith"
+    ], 
+    "date": "2007-08-06", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 49", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2366.html", 
+    "number": "N2366", 
+    "prev_version": "N2304", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 49", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2367.html", 
+    "number": "N2367", 
+    "prev_version": "N2305", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 49", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2368.html", 
+    "number": "N2368", 
+    "prev_version": "N2306", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2369.pdf", 
+    "number": "N2369", 
+    "prev_version": "N2315", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-08-06", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Editor\u2019s Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2370.html", 
+    "number": "N2370", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-08-06", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R50)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2371.html", 
+    "number": "N2371", 
+    "prev_version": "N2317", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R50)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2372.html", 
+    "number": "N2372", 
+    "prev_version": "N2318", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R50)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2373.html", 
+    "number": "N2373", 
+    "prev_version": "N2319", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2374.htm", 
+    "number": "N2374", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2007-07-30", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "AGENDA J16 Meeting No. 46 WG21 Meeting No. 41 October 1-6, 2007, \n\t\tKona, Hawaii", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2375.pdf", 
+    "number": "N2375", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2007-08-03", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Inheriting Constructors (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2376.html", 
+    "number": "N2376", 
+    "prev_version": "N2254", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "A.\u00a0Meredith", 
+      "M.\u00a0Wong", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-07-30", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extending move semantics to *this (revised wording)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2377.htm", 
+    "number": "N2377", 
+    "prev_version": "N1821", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "B. Kozicki", 
+      "D. Vandevoorde"
+    ], 
+    "date": "2007-08-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "User-defined Literals (aka. Extensible Literals (revision 3))", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2378.pdf", 
+    "number": "N2378", 
+    "prev_version": "N2282", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "I.\u00a0McIntosh", 
+      "M.\u00a0Wong", 
+      "R.\u00a0Mak", 
+      "R.\u00a0Klarer", 
+      "et al."
+    ], 
+    "date": "2007-08-01", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Towards support for attributes in C++ (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2379.pdf", 
+    "number": "N2379", 
+    "prev_version": "N2236", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "J.\u00a0Maurer", 
+      "M.\u00a0Wong"
+    ], 
+    "date": "2007-08-01", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit Conversion Operator Draft Working Paper (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2380.pdf", 
+    "number": "N2380", 
+    "prev_version": "N2333", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "L.\u00a0Goldthwaite", 
+      "M.\u00a0Wong", 
+      "J.\u00a0Maurer", 
+      "A.\u00a0Meredith"
+    ], 
+    "date": "2007-08-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Atomic Types and Operations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2381.html", 
+    "number": "N2381", 
+    "prev_version": "N2324", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Dynamic Initialization and Destruction with Concurrency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2382.html", 
+    "number": "N2382", 
+    "prev_version": "N2325", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Abandoning a Process", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2383.html", 
+    "number": "N2383", 
+    "prev_version": "", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-08-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Raw and Unicode String Literals; Unified Proposal (Rev. 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2384.html", 
+    "number": "N2384", 
+    "prev_version": "N2295", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "B.\u00a0Dawes"
+    ], 
+    "date": "2007-08-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Initializer lists WP wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2385.pdf", 
+    "number": "N2385", 
+    "prev_version": "N2215", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "J.\u00a0S.\u00a0Adamczyk", 
+      "G.\u00a0Dos\u00a0Reis", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-08-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Namespace Regions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2386.pdf", 
+    "number": "N2386", 
+    "prev_version": "N2312", 
+    "mailing_date": "2007-08", 
+    "authors": [
+      "Michael Spertus"
+    ], 
+    "date": "2007-08-06", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and INCITS J16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Omnibus Allocator Fix-up Proposals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2387.pdf", 
+    "number": "N2387", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Pointer Arithmetic for shared_ptr", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2388.pdf", 
+    "number": "N2388", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "State of C++ Evolution (pre-Kona 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2389.html", 
+    "number": "N2389", 
+    "prev_version": "N2336", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-08-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Library Working Group Status Report (pre-Kona 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2390.html", 
+    "number": "N2390", 
+    "prev_version": "N2363", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-08-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Recommendations for Resolving Issues re [rand]", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2391.pdf", 
+    "number": "N2391", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Memory Model for C++: Sequential Consistency for Race-Free \n\t\tPrograms", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2392.html", 
+    "number": "N2392", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Hans-J.\u00a0Boehm"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Atomic Types and Operations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2393.html", 
+    "number": "N2393", 
+    "prev_version": "N2381", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Wording for range-based for-loop (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2394.html", 
+    "number": "N2394", 
+    "prev_version": "N2243", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 50", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2395.html", 
+    "number": "N2395", 
+    "prev_version": "N2366", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 50", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2396.html", 
+    "number": "N2396", 
+    "prev_version": "N2367", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 50", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2397.html", 
+    "number": "N2397", 
+    "prev_version": "N2368", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Concepts (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2398.pdf", 
+    "number": "N2398", 
+    "prev_version": "N2307", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "B.\u00a0Stroustrup"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Tour of the Concepts Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2399.pdf", 
+    "number": "N2399", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Douglas Gregor"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "February 2008 Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2400.pdf", 
+    "number": "N2400", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Jon Caves"
+    ], 
+    "date": "2007-08-31", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Code Conversion Facets for the Standard C++ Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2401.htm", 
+    "number": "N2401", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "P.J. Plauger"
+    ], 
+    "date": "2007-09-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Names, Linkage, and Templates (rev 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2402.pdf", 
+    "number": "N2402", 
+    "prev_version": "N2187", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Anthony Williams"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R51)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2403.html", 
+    "number": "N2403", 
+    "prev_version": "N2371", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R51)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2404.html", 
+    "number": "N2404", 
+    "prev_version": "N2372", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R51)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2405.html", 
+    "number": "N2405", 
+    "prev_version": "N2373", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Mutex, Lock, Condition Variable Rationale", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2406.html", 
+    "number": "N2406", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Dynamic Library Support", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2407.html", 
+    "number": "N2407", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Simple Numeric Access Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2408.html", 
+    "number": "N2408", 
+    "prev_version": "N1982", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Resolutions for the Outstanding Issues in Chapter 28: \n\t\tRegular expressions library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2409.pdf", 
+    "number": "N2409", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "John Maddock"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread-Safety in the Standard Library (Rev 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2410.html", 
+    "number": "N2410", 
+    "prev_version": "N2298", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "B.\u00a0Dawes", 
+      "P.\u00a0Dimov", 
+      "H.\u00a0Sutter"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal for Date-Time Types in C++0x To Support Threading APIs v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2411.html", 
+    "number": "N2411", 
+    "prev_version": "N2328", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Jeff Garland"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Unrestricted Unions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2412.pdf", 
+    "number": "N2412", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "A.\u00a0Talbot", 
+      "L.\u00a0Goldthwaite", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Lambda Expressions and Closures: Wording for Monomorphic Lambdas", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2413.pdf", 
+    "number": "N2413", 
+    "prev_version": "N2329", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "J.\u00a0J\u00e4rvi", 
+      "J.\u00a0Freeman", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Evolution", 
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Scoped Concept Maps", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2414.pdf", 
+    "number": "N2414", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "J.\u00a0Siek", 
+      "J.\u00a0Widman"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Diagnostics Issues (Rev. 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2415.html", 
+    "number": "N2415", 
+    "prev_version": "N2296", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "B.\u00a0Dawes", 
+      "C.\u00a0Kohlhoff"
+    ], 
+    "date": "2007-09-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2416.htm", 
+    "number": "N2416", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++0x Timing Options for Kona Discussion", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2417.pdf", 
+    "number": "N2417", 
+    "prev_version": "", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2007-09-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Towards support for attributes in C++ (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2418.pdf", 
+    "number": "N2418", 
+    "prev_version": "N2379", 
+    "mailing_date": "2007-09", 
+    "authors": [
+      "J.\u00a0Maurer", 
+      "M.\u00a0Wong"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-10-23", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and INCITS J16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-09-10", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "POSIX/C++ Liaison Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2420.pdf", 
+    "number": "N2420", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "N.\u00a0Stoughton", 
+      "H.\u00a0Sutter"
+    ], 
+    "date": "2007-09-20", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Wording for Concepts (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2421.pdf", 
+    "number": "N2421", 
+    "prev_version": "N2398", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "B.\u00a0Stroustrup", 
+      "J.\u00a0Siek", 
+      "J.\u00a0Widman"
+    ], 
+    "date": "2007-10-22", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Diagnostics Issues (Rev. 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2422.htm", 
+    "number": "N2422", 
+    "prev_version": "N2415", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "B.\u00a0Dawes", 
+      "C.\u00a0Kohlhoff"
+    ], 
+    "date": "2007-10-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Recommendations for Resolving Issues re [rand], Version 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2423.pdf", 
+    "number": "N2423", 
+    "prev_version": "N2391", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2007-10-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Recommendations for Resolving the 2007-09-21 Issues re [rand]", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2424.pdf", 
+    "number": "N2424", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2007-10-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "DRAFT C++ Dynamic Library Support", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2425.html", 
+    "number": "N2425", 
+    "prev_version": "N2407", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-10-21", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Class member initializers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2426.htm", 
+    "number": "N2426", 
+    "prev_version": "N2354", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "M.\u00a0Spertus", 
+      "B.\u00a0Seymour"
+    ], 
+    "date": "2007-10-02", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Atomic Types and Operations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2427.html", 
+    "number": "N2427", 
+    "prev_version": "N2393", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-10-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concurrency memory model (final revision)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2429.htm", 
+    "number": "N2429", 
+    "prev_version": "N2334", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "C.\u00a0Nelson", 
+      "H.-J.\u00a0Boehm"
+    ], 
+    "date": "2007-10-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Unrestricted Unions (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2430.pdf", 
+    "number": "N2430", 
+    "prev_version": "N2412", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "A.\u00a0Talbot", 
+      "L.\u00a0Goldthwaite", 
+      "L.\u00a0Crowl", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-10-20", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A name for the null pointer: nullptr (revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2431.pdf", 
+    "number": "N2431", 
+    "prev_version": "N2214", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "H. Sutter", 
+      "B. Stroustrup"
+    ], 
+    "date": "2007-10-02", 
+    "subgroups": [
+      "Evolution", 
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "State of C++ Evolution (post-Kona 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2432.html", 
+    "number": "N2432", 
+    "prev_version": "N2389", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-10-23", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Library Working Group Status Report (post-Kona 2007 Meeting)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2433.html", 
+    "number": "N2433", 
+    "prev_version": "N2390", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-10-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Standard Library Applications for Explicit Conversion Operators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2434.htm", 
+    "number": "N2434", 
+    "prev_version": "N2293", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-10-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit bool for Smart Pointers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2435.htm", 
+    "number": "N2435", 
+    "prev_version": "N2293", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2007-10-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Small Allocator Fix-ups", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2436.pdf", 
+    "number": "N2436", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2007-10-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit Conversion Operator Draft Working Paper (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2437.pdf", 
+    "number": "N2437", 
+    "prev_version": "N2380", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "L.\u00a0Goldthwaite", 
+      "M.\u00a0Wong", 
+      "J.\u00a0Maurer", 
+      "A.\u00a0Meredith"
+    ], 
+    "date": "2007-10-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Inheriting Constructors (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2438.htm", 
+    "number": "N2438", 
+    "prev_version": "N2376", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "A.\u00a0Meredith", 
+      "M.\u00a0Wong", 
+      "J.\u00a0Maurer"
+    ], 
+    "date": "2007-10-04", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extending move semantics to *this (revised wording)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2439.htm", 
+    "number": "N2439", 
+    "prev_version": "N2377", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Bronek Kozicki"
+    ], 
+    "date": "2007-10-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Abandoning a Process", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2440.htm", 
+    "number": "N2440", 
+    "prev_version": "N2383", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-10-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Raw and Unicode String Literals; Unified Proposal (Rev. 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2442.htm", 
+    "number": "N2442", 
+    "prev_version": "N2384", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "B.\u00a0Dawes"
+    ], 
+    "date": "2007-10-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Dynamic Initialization and Destruction with Concurrency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2444.html", 
+    "number": "N2444", 
+    "prev_version": "N2382", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2007-10-16", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "New Function Declarator Syntax Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2445.html", 
+    "number": "N2445", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Jason Merrill"
+    ], 
+    "date": "2007-10-06", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "The Scoped Allocator Model", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2446.pdf", 
+    "number": "N2446", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2007-10-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Multi-threading Library for Standard C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2447.htm", 
+    "number": "N2447", 
+    "prev_version": "N2320", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "H.\u00a0Hinnant", 
+      "J.\u00a0Garland", 
+      "A.\u00a0Meredith", 
+      "C.\u00a0Kohlhoff", 
+      "D.\u00a0K\u00fchl", 
+      "et al."
+    ], 
+    "date": "2007-10-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "STL singly linked lists (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2448.html", 
+    "number": "N2448", 
+    "prev_version": "N2331", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2007-10-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 51", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2449.html", 
+    "number": "N2449", 
+    "prev_version": "N2395", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-10-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 51", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2450.html", 
+    "number": "N2450", 
+    "prev_version": "N2396", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-10-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 51", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2451.html", 
+    "number": "N2451", 
+    "prev_version": "N2397", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-10-09", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of WG21 Meeting No. 41, October 1-6, 2007", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2452.html", 
+    "number": "N2452", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-10-20", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of J16 Meeting No. 46, October 1-6, 2007", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2453.html", 
+    "number": "N2453", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-10-22", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of ISO WG21 Meeting, October 1, 2007", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2454.html", 
+    "number": "N2454", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2007-10-15", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread Cancellation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2455.pdf", 
+    "number": "N2455", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "WG 14"
+    ], 
+    "date": "2007-10-11", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R52)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2456.html", 
+    "number": "N2456", 
+    "prev_version": "N2403", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-10-20", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R52)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2457.html", 
+    "number": "N2457", 
+    "prev_version": "N2404", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-10-20", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R52)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2458.html", 
+    "number": "N2458", 
+    "prev_version": "N2405", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-10-20", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Allow atomics use in signal handlers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2459.html", 
+    "number": "N2459", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2007-10-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2461.pdf", 
+    "number": "N2461", 
+    "prev_version": "N2369", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-10-22", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Editor\u2019s Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2462.html", 
+    "number": "N2462", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2007-10-22", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2464.htm", 
+    "number": "N2464", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2007-10-19", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Winter 2008 Meeting (Version 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2465.pdf", 
+    "number": "N2465", 
+    "prev_version": "N2400", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "Jonathan Caves"
+    ], 
+    "date": "2007-10-22", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG 14: Towards Attributes for C", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2466.pdf", 
+    "number": "N2466", 
+    "prev_version": "", 
+    "mailing_date": "2007-10", 
+    "authors": [
+      "N.\u00a0Stoughton", 
+      "J.\u00a0Benito", 
+      "T.\u00a0Plum", 
+      "A.\u00a0Bijanki", 
+      "J.\u00a0Muller"
+    ], 
+    "date": "2007-10-22", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "2007 J16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-12-11", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and INCITS J16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2007-12-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "June 2008 Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2472.pdf", 
+    "number": "N2472", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "G.\u00a0Dos\u00a0Reis", 
+      "S.\u00a0Pion", 
+      "J.-P.\u00a0Rigault"
+    ], 
+    "date": "2007-12-09", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 52", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2473.html", 
+    "number": "N2473", 
+    "prev_version": "N2449", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-12-10", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 52", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2474.html", 
+    "number": "N2474", 
+    "prev_version": "N2450", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-12-10", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 52", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2475.html", 
+    "number": "N2475", 
+    "prev_version": "N2451", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2007-12-10", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "AGENDA J16 Meeting No. 47 February 25 - Mar 1, 2008, Bellevue, WA", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2476.pdf", 
+    "number": "N2476", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2007-11-30", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Uniform initialization design choices", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2477.pdf", 
+    "number": "N2477", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2007-11-28", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to Add typedef default_random_engine to C++0X", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2478.pdf", 
+    "number": "N2478", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2007-12-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Normative Language to Describe Value Copy Semantics", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2479.pdf", 
+    "number": "N2479", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "John Lakos"
+    ], 
+    "date": "2007-12-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Less Formal Explanation of the Proposed C++ Concurrency Memory Model", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2480.html", 
+    "number": "N2480", 
+    "prev_version": "N2138", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2007-12-09", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minimal Support for Garbage Collection and Reachability-Based Leak Detection", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2481.html", 
+    "number": "N2481", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "H.-J.\u00a0Boehm", 
+      "M.\u00a0Spertus"
+    ], 
+    "date": "2007-12-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R53)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2482.html", 
+    "number": "N2482", 
+    "prev_version": "N2456", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-12-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R53)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2483.html", 
+    "number": "N2483", 
+    "prev_version": "N2457", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-12-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R53)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2484.html", 
+    "number": "N2484", 
+    "prev_version": "N2458", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2007-12-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A variadic std::min(T, ...) for the C++ Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2485.pdf", 
+    "number": "N2485", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Sylvain Pion"
+    ], 
+    "date": "2007-12-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Alternative Allocators and Standard Containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2486.pdf", 
+    "number": "N2486", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "Lance Diduck"
+    ], 
+    "date": "2007-12-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Lambda Expressions and Closures: Wording for Monomorphic Lambdas \n\t\t(Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2487.pdf", 
+    "number": "N2487", 
+    "prev_version": "N2413", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "J.\u00a0J\u00e4rvi", 
+      "J.\u00a0Freeman", 
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2007-12-10", 
+    "subgroups": [
+      "Evolution", 
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extending Variadic Template Template Parameters", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2488.pdf", 
+    "number": "N2488", 
+    "prev_version": "", 
+    "mailing_date": "2007-12", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "E.\u00a0Niebler"
+    ], 
+    "date": "2007-12-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }
+]

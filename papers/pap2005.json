@@ -1,0 +1,2876 @@
+[
+  {
+    "disposition": null, 
+    "title": "2005 J16/WG21 Document List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and ANSI J16 Membership List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1743.htm", 
+    "number": "N1743", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2004-11-09", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Big Integer Library Proposal for C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1744.pdf", 
+    "number": "N1744", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Michiel Salters"
+    ], 
+    "date": "2005-01-13", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed Draft Technical Report on C++ Library Extensions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1745.pdf", 
+    "number": "N1745", 
+    "prev_version": "N1711", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding extended integer types to C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1746.pdf", 
+    "number": "N1746", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "J. Stephen Adamczyk"
+    ], 
+    "date": "2004-12-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 33", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1747.html", 
+    "number": "N1747", 
+    "prev_version": "N1729", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 33", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1748.html", 
+    "number": "N1748", 
+    "prev_version": "N1730", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 33", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1749.html", 
+    "number": "N1749", 
+    "prev_version": "N1731", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Critique of Code Conversion Proposal (", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1750.html", 
+    "number": "N1750", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2005-01-13", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Aspects of Reflection in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1751.html", 
+    "number": "N1751", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Detlef Vollmann"
+    ], 
+    "date": "2005-01-14", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++0x Standard Library wishlist (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1752.html", 
+    "number": "N1752", 
+    "prev_version": "N1732", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision 34)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1753.html", 
+    "number": "N1753", 
+    "prev_version": "N1708", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision 34)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1754.html", 
+    "number": "N1754", 
+    "prev_version": "N1709", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision 34)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1755.html", 
+    "number": "N1755", 
+    "prev_version": "N1710", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Library Extension Technical Report - Issues List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1756.pdf", 
+    "number": "N1756", 
+    "prev_version": "N1712", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Right Angle Brackets (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1757.html", 
+    "number": "N1757", 
+    "prev_version": "N1699", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "Daveed Vandevoorde"
+    ], 
+    "date": "2005-01-13", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concepts for C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1758.pdf", 
+    "number": "N1758", 
+    "prev_version": "", 
+    "mailing_date": "2005-01", 
+    "authors": [
+      "J. Siek", 
+      "D. Gregor et al."
+    ], 
+    "date": "2005-01-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2005 J16/WG21 Document List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-03-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and ANSI J16 Membership List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-03-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "TG5 Liaison Report #6", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1759.pdf", 
+    "number": "N1759", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2004-10-05", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "TG5 Liaison Report #7", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1760.pdf", 
+    "number": "N1760", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2004-11-10", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "TG5 Liaison Report #8", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1761.pdf", 
+    "number": "N1761", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-02-01", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision 35)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1762.html", 
+    "number": "N1762", 
+    "prev_version": "N1753", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision 35)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1763.html", 
+    "number": "N1763", 
+    "prev_version": "N1754", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision 35)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1764.html", 
+    "number": "N1764", 
+    "prev_version": "N1755", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Library Extension Technical Report - Issues List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1765.pdf", 
+    "number": "N1765", 
+    "prev_version": "N1756", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-03-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++0x Standard Library wishlist (revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1766.html", 
+    "number": "N1766", 
+    "prev_version": "N1752", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 34", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1767.html", 
+    "number": "N1767", 
+    "prev_version": "N1747", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-03-07", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 34", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1768.html", 
+    "number": "N1768", 
+    "prev_version": "N1748", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-03-07", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 34", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1769.html", 
+    "number": "N1769", 
+    "prev_version": "N1749", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-03-07", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to Add an Rvalue Reference to the C++ Language: Proposed Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1770.html", 
+    "number": "N1770", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "H.\u00a0Hinnant", 
+      "D.\u00a0Abrahams", 
+      "J.\u00a0Adamczyk", 
+      "P.\u00a0Dimov", 
+      "A.\u00a0Hommel"
+    ], 
+    "date": "2005-03-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Impact of the rvalue reference on the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1771.html", 
+    "number": "N1771", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "H.\u00a0Hinnant", 
+      "D.\u00a0Abrahams", 
+      "P.\u00a0Dimov", 
+      "D.\u00a0Gregor", 
+      "A.\u00a0Hommel", 
+      "A.\u00a0Meredith"
+    ], 
+    "date": "2005-03-03", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1772.pdf", 
+    "number": "N1772", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal to add Contract Programming to C++ (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1773.html", 
+    "number": "N1773", 
+    "prev_version": "N1669", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "D.\u00a0Abrahams", 
+      "L.\u00a0Crowl", 
+      "T.\u00a0Ottosen", 
+      "J.\u00a0Widman"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "On the Future Evolution of C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1774.htm", 
+    "number": "N1774", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Lois Goldthwaite"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Case for Reflection", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1775.pdf", 
+    "number": "N1775", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Walter E. Brown", 
+      "et al."
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Decimal Types for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1776.html", 
+    "number": "N1776", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Memory model for multithreaded C++: Issues", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1777.pdf", 
+    "number": "N1777", 
+    "prev_version": "", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "A.\u00a0Alexandrescu", 
+      "H.\u00a0Boehm", 
+      "K.\u00a0Henney", 
+      "B.\u00a0Hutchings", 
+      "D.\u00a0Lea", 
+      "B.\u00a0Pugh"
+    ], 
+    "date": "2005-03-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Modules in C++ (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1778.pdf", 
+    "number": "N1778", 
+    "prev_version": "N1736", 
+    "mailing_date": "2005-03", 
+    "authors": [
+      "Daveed Vandevoorde"
+    ], 
+    "date": "2005-01-18", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2005 J16/WG21 Document List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-05-03", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and ANSI J16 Membership List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-05-02", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Comments on LWG issue 233: Insertion hints in associative containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1780.html", 
+    "number": "N1780", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-04-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rules of thumb for the design of C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1781.pdf", 
+    "number": "N1781", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2005-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A concept design (Rev. 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1782.pdf", 
+    "number": "N1782", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2005-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "TG5 Liaison Report #9", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1783.pdf", 
+    "number": "N1783", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-04-09", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "A proposal to add l-value member function qualifier", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1784.htm", 
+    "number": "N1784", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Bronek Kozicki"
+    ], 
+    "date": "2005-04-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Toward a Proposal for Object Templates in C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1785.pdf", 
+    "number": "N1785", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2005-04-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 35", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1786.html", 
+    "number": "N1786", 
+    "prev_version": "N1747", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 35", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1787.html", 
+    "number": "N1787", 
+    "prev_version": "N1748", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 35", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1788.html", 
+    "number": "N1788", 
+    "prev_version": "N1749", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of J16 Meeting No. 40/WG21 Meeting No. 34, April 11-15, 2005", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1789.html", 
+    "number": "N1789", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2005-04-11", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of ISO WG21 Meeting, April 10, 2005", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1790.html", 
+    "number": "N1790", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2005-04-10", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extended friend Declarations (Rev. 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1791.pdf", 
+    "number": "N1791", 
+    "prev_version": "N1722", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Modest Proposal: Fixing ADL", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1792.pdf", 
+    "number": "N1792", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Core", 
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Deducing the type of variable from its initializer expression (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1794.pdf", 
+    "number": "N1794", 
+    "prev_version": "N1721", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "J.\u00a0J\u00e4rvi", 
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2005-04-13", 
+    "subgroups": [
+      "Core", 
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal for new for-loop", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1796.html", 
+    "number": "N1796", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2005-04-27", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Explicit model definitions are necessary", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1798.html", 
+    "number": "N1798", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "D. Gregor", 
+      "J. Siek"
+    ], 
+    "date": "2005-04-14", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Language Support for Generic Programming", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1799.pdf", 
+    "number": "N1799", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "J.\u00a0Siek", 
+      "D.\u00a0Gregor", 
+      "R.\u00a0Garcia", 
+      "J.\u00a0Willcock", 
+      "J.\u00a0J\u00e4rvi", 
+      "A.\u00a0Lumsdaine"
+    ], 
+    "date": "2005-04-14", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Contract Programming For C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1800.pdf", 
+    "number": "N1800", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "T.\u00a0Ottosen"
+    ], 
+    "date": "2005-04-27", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed resolution of core issue 301", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1801.htm", 
+    "number": "N1801", 
+    "prev_version": "N1490", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Uniform Use of std::string", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1802.html", 
+    "number": "N1802", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2005-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Simple Numeric Access", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1803.html", 
+    "number": "N1803", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2005-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1804.pdf", 
+    "number": "N1804", 
+    "prev_version": "N1733", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2005-04-27", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Editor's Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1805.html", 
+    "number": "N1805", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2005-04-20", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R36)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1806.html", 
+    "number": "N1806", 
+    "prev_version": "N1753", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R36)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1807.html", 
+    "number": "N1807", 
+    "prev_version": "N1754", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R36)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1808.html", 
+    "number": "N1808", 
+    "prev_version": "N1755", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-05-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Library Extension Technical Report - Issues List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1809.pdf", 
+    "number": "N1809", 
+    "prev_version": "N1756", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-04-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Library Extension TR2 Call for Proposals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1810.html", 
+    "number": "N1810", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "H.\u00a0Hinnant", 
+      "B.\u00a0Dawes", 
+      "M.\u00a0Austern"
+    ], 
+    "date": "2005-04-29", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding the long long type to C++ (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1811.pdf", 
+    "number": "N1811", 
+    "prev_version": "N1735", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "J. Stephen Adamczyk"
+    ], 
+    "date": "2005-04-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "October 2005 Meeting Information (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1814.pdf", 
+    "number": "N1814", 
+    "prev_version": "N1779", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Stephen Michell"
+    ], 
+    "date": "2005-04-29", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO C++ Strategic Plan for Multithreading", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1815.html", 
+    "number": "N1815", 
+    "prev_version": "", 
+    "mailing_date": "2005-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2005-05-02", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "2005 J16/WG21 Document List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-06-27", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and ANSI J16 Membership List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-06-27", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Business Plan and Convener's Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1816.htm", 
+    "number": "N1816", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-06-02", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1817.htm", 
+    "number": "N1817", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-05-31", 
+    "subgroups": []
+  },
+  {
+    "disposition": null,
+    "title": "C++ Standard Core Language Active Issues, Revision 36",
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1818.html",
+    "number": "N1818",
+    "prev_version": "N1786",
+    "mailing_date": "2005-06",
+    "authors": [
+      "William M. Miller"
+    ],
+    "date": "2005-06-27",
+    "subgroups": ["Core"],
+    "comments": "Check, was created manually"
+  },
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 36", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1819.html", 
+    "number": "N1819", 
+    "prev_version": "N1787", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-06-27", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 36", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1820.html", 
+    "number": "N1820", 
+    "prev_version": "N1788", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-06-27", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to add a max significant decimal digits value to the C++ Standard Library Numeric limits", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1822.pdf", 
+    "number": "N1822", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Paul A Bristow"
+    ], 
+    "date": "2005-06-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "New Character Types in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1823.html", 
+    "number": "N1823", 
+    "prev_version": "N1628", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2005-06-23", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extending Aggregate Initialization", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1824.htm", 
+    "number": "N1824", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2005-06-27", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Addressing Exception Specifications for Next Generation of C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1825.htm", 
+    "number": "N1825", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2005-06-27", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R37)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1830.html", 
+    "number": "N1830", 
+    "prev_version": "N1806", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R37)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1831.html", 
+    "number": "N1831", 
+    "prev_version": "N1807", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R37)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1832.html", 
+    "number": "N1832", 
+    "prev_version": "N1808", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Transparent Garbage Collection for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1833.pdf", 
+    "number": "N1833", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "H.\u00a0Boehm", 
+      "M.\u00a0Spertus"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Pleading for Reasonable Parallel Processing Support in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1834.html", 
+    "number": "N1834", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Detlef Vollmann"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "<stdint.h> for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1835.pdf", 
+    "number": "N1835", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Steve Clamage"
+    ], 
+    "date": "2005-06-23", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Draft Technical Report on C++ Library Extensions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1836.pdf", 
+    "number": "N1836", 
+    "prev_version": "N1745", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Library Extension Technical Report - Issues List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1837.pdf", 
+    "number": "N1837", 
+    "prev_version": "N1809", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-06-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to Add Sockets to the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1838.pdf", 
+    "number": "N1838", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Joseph S. Berr\u00edos"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Decimal Types for C++: Second Draft", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1839.html", 
+    "number": "N1839", 
+    "prev_version": "N1776", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2005-06-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2005 J16/WG21 Document List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and ANSI J16 Membership List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2005-06", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extending Move Semantics To *this (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1821.htm", 
+    "number": "N1821", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "D.\u00a0Vandevoorde", 
+      "B.\u00a0Kozicki"
+    ], 
+    "date": "2005-08-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "An Explicit Override Syntax for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1827.htm", 
+    "number": "N1827", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "C.\u00a0Uzdavinis", 
+      "A.\u00a0Meredith"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++0x Proposal: Function template std::minmax and / or algorithm std::minmax_element", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1840.pdf", 
+    "number": "N1840", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Herv\u00e9 Br\u00f6nnimann"
+    ], 
+    "date": "2005-06-28", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Filesystem Library Proposal", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1841.html", 
+    "number": "N1841", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2005-08-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to add two iostream manipulators to the C++ Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1842.pdf", 
+    "number": "N1842", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Paul A Bristow"
+    ], 
+    "date": "2005-07-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to add Interval Arithmetic to the C++ Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1843.pdf", 
+    "number": "N1843", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "H.\u00a0Br\u00f6nnimann", 
+      "G.\u00a0Melquiond", 
+      "S.\u00a0Pion"
+    ], 
+    "date": "2005-08-01", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 37", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1844.html", 
+    "number": "N1844", 
+    "prev_version": "N1818", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-08-27", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 37", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1845.html", 
+    "number": "N1845", 
+    "prev_version": "N1819", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-08-27", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 37", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1846.html", 
+    "number": "N1846", 
+    "prev_version": "N1820", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-08-27", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "vector<bool>: More Problems, Better Solutions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1847.pdf", 
+    "number": "N1847", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "1999-10-20", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Implementing Concepts", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1848.pdf", 
+    "number": "N1848", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "D.\u00a0Gregor", 
+      "J.\u00a0Siek"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concepts for C++0x Revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1849.pdf", 
+    "number": "N1849", 
+    "prev_version": "N1758", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "D. Gregor", 
+      "J. Siek et al."
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Towards a Better Allocator Model", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1850.pdf", 
+    "number": "N1850", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2005-08-25", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Improving Usability and Performance of TR1 Smart Pointers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1851.pdf", 
+    "number": "N1851", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "V.\u00a0Kliatchko", 
+      "I.\u00a0Rocha"
+    ], 
+    "date": "2005-08-25", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R38)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1852.html", 
+    "number": "N1852", 
+    "prev_version": "N1830", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R38)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1853.html", 
+    "number": "N1853", 
+    "prev_version": "N1831", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R38)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1854.html", 
+    "number": "N1854", 
+    "prev_version": "N1832", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to Add an Rvalue Reference to the C++ Language: Proposed Wording", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1855.html", 
+    "number": "N1855", 
+    "prev_version": "N1770", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "D.\u00a0Abrahams", 
+      "P.\u00a0Dimov", 
+      "H.\u00a0Hinnant", 
+      "A.\u00a0Hommel"
+    ], 
+    "date": "2005-08-25", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rvalue Reference Recommendations for Chapter 20", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1856.html", 
+    "number": "N1856", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rvalue Reference Recommendations for Chapter 21", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1857.html", 
+    "number": "N1857", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rvalue Reference Recommendations for Chapter 23", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1858.html", 
+    "number": "N1858", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rvalue Reference Recommendations for Chapter 24", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1859.html", 
+    "number": "N1859", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rvalue Reference Recommendations for Chapter 25", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1860.html", 
+    "number": "N1860", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rvalue Reference Recommendations for Chapter 26", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1861.html", 
+    "number": "N1861", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Rvalue Reference Recommendations for Chapter 27", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1862.html", 
+    "number": "N1862", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Howard E. Hinnant"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "TG4 liaison report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1864.pdf", 
+    "number": "N1864", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-08-22", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to Improve const_iterator Use (version 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1865.pdf", 
+    "number": "N1865", 
+    "prev_version": "N1674", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2005-08-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal to add Contract Programming to C++ (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1866.html", 
+    "number": "N1866", 
+    "prev_version": "N1773", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "T.\u00a0Ottosen"
+    ], 
+    "date": "2005-08-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Synergies between Contract Programming, Concepts and Static Assertions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1867.html", 
+    "number": "N1867", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "T.\u00a0Ottosen"
+    ], 
+    "date": "2005-08-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal for new for-loop (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1868.html", 
+    "number": "N1868", 
+    "prev_version": "N1796", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2005-08-24", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Wording for imaginary numbers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1869.html", 
+    "number": "N1869", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2005-08-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "14 crazy ideas for the standard library in C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1870.html", 
+    "number": "N1870", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2005-08-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Range Library Proposal", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1871.html", 
+    "number": "N1871", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Thorsten Ottosen"
+    ], 
+    "date": "2005-08-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal for new string algorithms in C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1872.html", 
+    "number": "N1872", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "P.\u00a0Droba", 
+      "T.\u00a0Ottosen"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "The Cursor/Property Map Abstraction", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1873.html", 
+    "number": "N1873", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "D.\u00a0K\u00fchl", 
+      "D.\u00a0Abrahams"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Thread-Local Storage", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1874.html", 
+    "number": "N1874", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2005-08-25", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Threads", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1875.html", 
+    "number": "N1875", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2005-08-25", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Memory model for multithreaded C++: August 2005 status update", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1876.pdf", 
+    "number": "N1876", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "H.\u00a0Boehm", 
+      "D.\u00a0Lea", 
+      "B.\u00a0Pugh"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Adding Alignment Support to the C++ Programming Language", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1877.pdf", 
+    "number": "N1877", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Attila (Farkas) Feh\u00e9r"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A proposal to add an utility class to represent optional objects (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1878.htm", 
+    "number": "N1878", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Fernando Cacciola"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A proposal to add a general purpose ranged-checked numeric_cast<> (Revision \n1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1879.htm", 
+    "number": "N1879", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Fernando Cacciola"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A proposal to extend numeric_limits for consistent range query (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1880.htm", 
+    "number": "N1880", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Fernando Cacciola"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "AGENDA", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1882.pdf", 
+    "number": "N1882", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2005-08-25", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Preliminary Threading Library Proposal for TR2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1883.pdf", 
+    "number": "N1883", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "Kevlin Henney"
+    ], 
+    "date": "2005-08-29", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Further Restrictions on Special Math Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1884.htm", 
+    "number": "N1884", 
+    "prev_version": "", 
+    "mailing_date": "2005-08", 
+    "authors": [
+      "P.J.\u00a0Plauger", 
+      "C.\u00a0Walker"
+    ], 
+    "date": "2005-08-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "2005 J16/WG21 Document List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-10-24", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and ANSI J16 Membership List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-10-24", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "A formalism for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1885.pdf", 
+    "number": "N1885", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "G. Dos Reis", 
+      "B. Stroustrup"
+    ], 
+    "date": "2005-10-20", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Specifying C++ concepts", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1886.pdf", 
+    "number": "N1886", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "G. Dos Reis", 
+      "B. Stroustrup"
+    ], 
+    "date": "2005-10-20", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Meeting information for SC 22/WG 21 Meetings in Berlin", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1887.htm", 
+    "number": "N1887", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Cord Wischhoeffer"
+    ], 
+    "date": "2005-09-12", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Defining Members of Explicit Specializations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1888.pdf", 
+    "number": "N1888", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-10-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Filesystem Library Proposal for TR2 (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1889.html", 
+    "number": "N1889", 
+    "prev_version": "N1841", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2005-09-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Initialization and initializers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1890.pdf", 
+    "number": "N1890", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "B. Stroustrup", 
+      "G. Dos Reis"
+    ], 
+    "date": "2005-09-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Progress toward Opaque Typedefs for C++0X", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1891.pdf", 
+    "number": "N1891", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2005-10-18", 
+    "subgroups": [
+      "Evolution", 
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Extensible Literals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1892.pdf", 
+    "number": "N1892", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "I. McIntosh", 
+      "M. Wong", 
+      "R. Mak"
+    ], 
+    "date": "2005-09-30", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Modest Proposal: Fixing ADL (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1893.pdf", 
+    "number": "N1893", 
+    "prev_version": "N1792", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-10-12", 
+    "subgroups": [
+      "Core", 
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Deducing the type of variable from its initializer expression (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1894.pdf", 
+    "number": "N1894", 
+    "prev_version": "N1794", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "J. J\u00e4rvi", 
+      "B. Stroustrup", 
+      "G. Dos Reis"
+    ], 
+    "date": "2005-10-24", 
+    "subgroups": [
+      "Core", 
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Delegating Constructors (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1895.pdf", 
+    "number": "N1895", 
+    "prev_version": "N1618", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "H. Sutter", 
+      "F. Glassborow"
+    ], 
+    "date": "2005-10-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposed resolution of core issue 301 (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1896.htm", 
+    "number": "N1896", 
+    "prev_version": "N1801", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-10-13", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Forwarding and inherited constructors", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1898.pdf", 
+    "number": "N1898", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "M. Michaud", 
+      "M. Wong"
+    ], 
+    "date": "2005-10-06", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Concept proposal comparison", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1899.pdf", 
+    "number": "N1899", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-10-06", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Proposal to Add Date-Time to the C++ Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1900.pdf", 
+    "number": "N1900", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Jeff Garland"
+    ], 
+    "date": "2005-10-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++0x Standard Library wishlist (revision 5)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1901.html", 
+    "number": "N1901", 
+    "prev_version": "N1766", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Matt Austern"
+    ], 
+    "date": "2005-10-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 38", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1902.html", 
+    "number": "N1902", 
+    "prev_version": "N1844", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-10-22", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 38", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1903.html", 
+    "number": "N1903", 
+    "prev_version": "N1845", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-10-22", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 38", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1904.html", 
+    "number": "N1904", 
+    "prev_version": "N1846", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-10-22", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1905.pdf", 
+    "number": "N1905", 
+    "prev_version": "N1804", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2005-10-19", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Editor's Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1906.html", 
+    "number": "N1906", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2005-10-19", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Multi-threading Library for Standard C++, Revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1907.html", 
+    "number": "N1907", 
+    "prev_version": "N1682", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2005-10-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R39)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1908.html", 
+    "number": "N1908", 
+    "prev_version": "N1852", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-10-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R39)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1909.html", 
+    "number": "N1909", 
+    "prev_version": "N1853", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-10-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R39)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1910.html", 
+    "number": "N1910", 
+    "prev_version": "N1854", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-10-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Memory Model for C++: Status update", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1911.pdf", 
+    "number": "N1911", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Hans Boehm"
+    ], 
+    "date": "2005-10-20", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A sketch for a namespace() operator", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1912.pdf", 
+    "number": "N1912", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Daveed Vandevoorde"
+    ], 
+    "date": "2005-10-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to Improve const_iterator Use (version 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1913.pdf", 
+    "number": "N1913", 
+    "prev_version": "N1865", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2005-10-20", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "A Proposal to Add Random-Number Distributions to C++0x", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1914.pdf", 
+    "number": "N1914", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "M.\u00a0Paterno", 
+      "M.\u00a0Fischler", 
+      "W.\u00a0Brown", 
+      "J.\u00a0Kowalkowski"
+    ], 
+    "date": "2005-10-21", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of J16 Meeting No. 41/WG21 Meeting No. 35, October 3-8, 2005", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1915.html", 
+    "number": "N1915", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2005-10-03", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Minutes of ISO WG21 Meeting, October 2, 2005", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1916.html", 
+    "number": "N1916", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Robert Klarer"
+    ], 
+    "date": "2005-10-02", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1917.htm", 
+    "number": "N1917", 
+    "prev_version": "", 
+    "mailing_date": "2005-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-10-20", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "2005 J16/WG21 Document List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-12-18", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "ISO WG21 and ANSI J16 Membership List", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2005-12-18", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "WG21 and J16 (C++) Joint Mailing and Meeting Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/sd-5.htm", 
+    "number": "SD-5", 
+    "prev_version": "", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2003-04-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": null, 
+    "title": "Initializer lists", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1919.pdf", 
+    "number": "N1919", 
+    "prev_version": "", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2005-12-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "TG5 Liaison Report #11", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1924.pdf", 
+    "number": "N1924", 
+    "prev_version": "", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2005-11-21", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "Networking proposal for TR2 (rev. 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1925.pdf", 
+    "number": "N1925", 
+    "prev_version": "", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Gerhard Wesp"
+    ], 
+    "date": "2005-12-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Active Issues List (Revision R40)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1926.html", 
+    "number": "N1926", 
+    "prev_version": "N1908", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-12-16", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Defect Report List (Revision R40)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1927.html", 
+    "number": "N1927", 
+    "prev_version": "N1909", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-12-16", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Library Closed Issues List (Revision R40)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1928.html", 
+    "number": "N1928", 
+    "prev_version": "N1910", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2005-12-16", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Active Issues, Revision 39", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1929.html", 
+    "number": "N1929", 
+    "prev_version": "N1902", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-12-16", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Defect Reports, Revision 39", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1930.html", 
+    "number": "N1930", 
+    "prev_version": "N1903", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-12-16", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": null, 
+    "title": "C++ Standard Core Language Closed Issues, Revision 39", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1931.html", 
+    "number": "N1931", 
+    "prev_version": "N1904", 
+    "mailing_date": "2005-12", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2005-12-16", 
+    "subgroups": [
+      "Core"
+    ]
+  }
+]

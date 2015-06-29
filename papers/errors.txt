@@ -1,0 +1,57 @@
+2015
+----
+OK
+
+2014
+----
++ Error when parsing doc 'N4264': Bad document date: N4209 [ModernTableParser]
+
+
+2013
+----
+OK
+
+2012
+----
+OK
+
+2011
+----
+TODO:
+Error when parsing doc 'N3232': 'utf8' codec can't decode byte 0xed in position 5: invalid continuation byte [J16TableParser]
+Error when parsing doc 'N3242': Wrong number of columns [J16TableParser]
+Error when parsing doc 'N3302': Wrong number of columns [J16TransitionTableParser]
+Error when parsing doc 'N3303': Wrong number of columns [J16TransitionTableParser]
+Error when parsing doc 'N3304': Wrong number of columns [J16TransitionTableParser]
+Error when parsing doc 'N3305': Wrong number of columns [J16TransitionTableParser]
+
+2010
+----
++ Error when parsing doc 'N3126': Wrong number of columns [J16TableParser]
++ Error when parsing doc 'N3176': Bad J16 document reference: 3134=10-0124 [J16TableParser]
++ Error when parsing doc 'N3225': Wrong number of columns [J16TableParser]
+
+2009
+----
++ Error when loading doc 'N2880': (u'conflict', u'Document update conflict.') [papers/pap2009.json]
++ Error when loading doc 'N2881': (u'conflict', u'Document update conflict.') [papers/pap2009.json]
+
+2008
+----
+OK
+
+2007
+----
+OK
+
+2006
+----
+OK
+
+2005
+----
++ Error when parsing doc 'N1818': Bad J16 document reference: 2005/06 [J16TableParser]
+
+2004
+----
+OK

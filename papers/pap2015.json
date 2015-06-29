@@ -1,0 +1,3153 @@
+[
+  {
+    "disposition": "", 
+    "title": "2014 PL22.16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "John Spicer"
+    ], 
+    "date": "2015-02-09", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Remove Deprecated Use of the register Keyword", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4340.html", 
+    "number": "N4340", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2014-11-26", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R92)", 
+    "url": null, 
+    "number": "N4341", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R92)", 
+    "url": null, 
+    "number": "N4342", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R92)", 
+    "url": null, 
+    "number": "N4343", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Suggested Design for Customization Points", 
+    "url": null, 
+    "number": "N4344", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Eric Niebler"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Ranges for the Standard Library, Revision 2", 
+    "url": null, 
+    "number": "N4345", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Eric Niebler"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Multidimensional bounds, index and array_view, revision 5", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4346.html", 
+    "number": "N4346", 
+    "prev_version": "N4177", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Lukasz Mendakiewicz"
+    ], 
+    "date": "2015-01-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Responses to National Body Comments, PDTS 19568, Library Fundamentals", 
+    "url": null, 
+    "number": "N4347", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Barry Hedquist"
+    ], 
+    "date": null, 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Making std::function thread-safe", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4348.html", 
+    "number": "N4348", 
+    "prev_version": "N4159", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Geoffrey Romer"
+    ], 
+    "date": "2015-02-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes of WG21 Telecon", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4349.html", 
+    "number": "N4349", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2014-12-05", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Agenda and Meeting Notice for WG21 Concepts Meeting Notice (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4350.pdf", 
+    "number": "N4350", 
+    "prev_version": "N4339", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2015-01-15", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Responses to National Body Comments, PDTS 19570, C++ Extensions for Parallelism", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4351.pdf", 
+    "number": "N4351", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Barry Hedquist"
+    ], 
+    "date": "2014-12-23", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Parallelism TS", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4352.html", 
+    "number": "N4352", 
+    "prev_version": "N4310", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-01-08", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Parallelism TS - Editor's Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4353.pdf", 
+    "number": "N4353", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-01-08", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Parallelism TS - DTS Ballot  Document", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4354.pdf", 
+    "number": "N4354", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-01-08", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Shared Multidimensional Arrays with Polymorphic Layout", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4355.pdf", 
+    "number": "N4355", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Carter Edwards"
+    ], 
+    "date": "2015-02-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Relaxed Array Type Declarator", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4356.pdf", 
+    "number": "N4356", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Carter Edwards"
+    ], 
+    "date": "2015-02-04", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Introduce the [[noexit]] attribute for main as a hint to eliminate destructor calls for objects with static storage duration", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4357.html", 
+    "number": "N4357", 
+    "prev_version": "N4226", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-01-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Unary Folds and Empty Parameter Packs", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4358.pdf", 
+    "number": "N4358", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Thibaut Le Jehan"
+    ], 
+    "date": "2015-01-20", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Proposal to Add vector release method just like unique_ptr release method to the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4359.pdf", 
+    "number": "N4359", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Jerry Liang"
+    ], 
+    "date": "2015-01-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Delayed Evaluation Parameters", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4360.pdf", 
+    "number": "N4360", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Douglas Boffey"
+    ], 
+    "date": "2015-01-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Concepts Lite TS", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4361.pdf", 
+    "number": "N4361", 
+    "prev_version": "N4333", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Andrew Sutton"
+    ], 
+    "date": "2015-01-27", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "WG21 2015-01 Skillman Minutes", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4362.html", 
+    "number": "N4362", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "John Spicer"
+    ], 
+    "date": "2015-01-27", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Library Fundamentals v1 DTS", 
+    "url": null, 
+    "number": "N4363", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": null, 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Editor's Report for the Library Fundamentals v1 DTS", 
+    "url": null, 
+    "number": "N4364", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": null, 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Responses to National Body Comments, ISO/IEC PDTS 19568, C++ Extensions for Library Fundamentals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4365.pdf", 
+    "number": "N4365", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Barry Hedquist"
+    ], 
+    "date": "2015-01-29", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "LWG 2228: Missing SFINAE rule in unique_ptr templated assignment", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4366.html", 
+    "number": "N4366", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2015-01-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Comparison in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4367.html", 
+    "number": "N4367", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2015-02-08", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Introducing alias size_type for type size_t in class std::bitset", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4368.htm", 
+    "number": "N4368", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Vladimir Grigoriev"
+    ], 
+    "date": "2015-02-03", 
+    "subgroups": [
+      "Library evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Default argument for second parameter of std::advance", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4369.htm", 
+    "number": "N4369", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Vladimir Grigoriev"
+    ], 
+    "date": "2015-01-12", 
+    "subgroups": [
+      "Library evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Networking Library Proposal (Revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4370.html", 
+    "number": "N4370", 
+    "prev_version": "N4332", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Christopher Kohlhoff"
+    ], 
+    "date": "2015-02-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minimal incomplete type support for standard containers, revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4371.html", 
+    "number": "N4371", 
+    "prev_version": "N4056", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2015-02-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Proposal to Add a Const-Propagating Wrapper to the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4372.html", 
+    "number": "N4372", 
+    "prev_version": "N4209", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Jonathan Coe"
+    ], 
+    "date": "2015-02-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Atomic View", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4373.pdf", 
+    "number": "N4373", 
+    "prev_version": "N4142", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Carter Edwards", 
+      "Hans Boehm"
+    ], 
+    "date": "2015-01-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Linux-Kernel Memory Mode", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4374.html", 
+    "number": "N4374", 
+    "prev_version": "N4322", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2015-02-06", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Out-of-Thin-Air Execution is Vacuous", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4375.html", 
+    "number": "N4375", 
+    "prev_version": "N4323", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2015-02-06", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Use Cases for Thread-Local Storage", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4376.html", 
+    "number": "N4376", 
+    "prev_version": "N4324", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2015-02-06", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Extensions for Concepts PDTS", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4377.pdf", 
+    "number": "N4377", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "Andrew Sutton"
+    ], 
+    "date": "2015-02-09", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Language Support for Contract Assertions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4378.pdf", 
+    "number": "N4378", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "John Lakos", 
+      "Nathan Myers", 
+      "Alexei Zakharov", 
+      "Alexander Beels"
+    ], 
+    "date": "2015-02-08", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "FAQ about", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4379.pdf", 
+    "number": "N4379", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "John Lakos", 
+      "Nathan Myers"
+    ], 
+    "date": "2015-02-08", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Constant View: A proposal for a std::as_const helper function template", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4380.html", 
+    "number": "N4380", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "ADAM David Alan Martin", 
+      "Alisdair Meredith"
+    ], 
+    "date": "2015-02-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "2014 PL22.16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2015-02", 
+    "authors": [
+      "John Spicer"
+    ], 
+    "date": "2015-02-09", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Suggested Design for Customization Points", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4381.html", 
+    "number": "N4381", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Eric Niebler"
+    ], 
+    "date": "2015-03-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, C++ extensions for Ranges", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4382.pdf", 
+    "number": "N4382", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Eric Niebler"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R92)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4383.html", 
+    "number": "N4383", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R92)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4384.html", 
+    "number": "N4384", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R92)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4385.html", 
+    "number": "N4385", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Unspecialized std::tuple_size should be defined", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4386.pdf", 
+    "number": "N4386", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Nevin Liber"
+    ], 
+    "date": "2015-02-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Improving pair and tuple, revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4387.html", 
+    "number": "N4387", 
+    "prev_version": "N4064", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Daniel Kr\u00fcgler", 
+      "Geoffrey Romer", 
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-03-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Proposal to Add a Const-Propagating Wrapper to the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4388.html", 
+    "number": "N4388", 
+    "prev_version": "N4372", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jonathan Coe", 
+      "Robert Mill"
+    ], 
+    "date": "2015-02-25", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Wording for bool_constant, revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4389.html", 
+    "number": "N4389", 
+    "prev_version": "N4334", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2015-02-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minimal incomplete type support for standard containers, revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4390.html", 
+    "number": "N4390", 
+    "prev_version": "N4371", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2015-02-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "make_array, revision 4", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4391.html", 
+    "number": "N4391", 
+    "prev_version": "N4315", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2015-02-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Latches and Barriers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4392.pdf", 
+    "number": "N4392", 
+    "prev_version": "N4204", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Alasdair Mackintosh", 
+      "Olivier Giroux"
+    ], 
+    "date": "2015-03-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Noop Constructors and Destructors", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4393.pdf", 
+    "number": "N4393", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Agenda for Lenexa Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4394.html", 
+    "number": "N4394", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2015-03-12", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SIMD Types: ABI Considerations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4395.pdf", 
+    "number": "N4395", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Matthias Kretz"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "National Body Comments: PDTS 19841, Transactional Memory", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4396.pdf", 
+    "number": "N4396", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Barry Hedquist"
+    ], 
+    "date": "2015-03-16", 
+    "subgroups": [
+      "Transactional Memory"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A low-level API for stackful coroutines", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4397.pdf", 
+    "number": "N4397", 
+    "prev_version": "N3985", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Oliver Kowalke"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A unified syntax for stackless and stackful coroutines", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4398.pdf", 
+    "number": "N4398", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Oliver Kowalke"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposed Working Draft, Technical Specification for C++ Extensions for Concurrency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4399.html", 
+    "number": "N4399", 
+    "prev_version": "N4107", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Artur Laksberg"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Concurrency TS Editor's Report, May 2015", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4400.html", 
+    "number": "N4400", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Artur Laksberg"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Defaulted comparison operator semantics should be uniform", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4401.html", 
+    "number": "N4401", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Michael Price"
+    ], 
+    "date": "2015-04-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Resumable Functions (revision 4)", 
+    "url": null, 
+    "number": "N4402", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Gor Nishanov"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Draft Wording for Resumable Functions", 
+    "url": null, 
+    "number": "N4403", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Gor Nishanov"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Extension to aggregate initialization", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4404.html", 
+    "number": "N4404", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Oleg Smolsky"
+    ], 
+    "date": "2015-03-31", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Type of the accumulaters of standard algorithms std::accumulate\nand std::inner_product", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4405.htm", 
+    "number": "N4405", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Vladimir Grigoriev"
+    ], 
+    "date": "2015-02-11", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Integrating Executors with Parallel Algorithm Execution", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4406.pdf", 
+    "number": "N4406", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jared Hoberock", 
+      "Michael Garland", 
+      "Oliver Giroux"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, Technical Specification for C++ Extensions for Parallelism", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4407.html", 
+    "number": "N4407", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Parallelism TS Editor's Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4408.pdf", 
+    "number": "N4408", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Programming Languages -- Technical Specification for\nC++ Extensions for Parallelism", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4409.pdf", 
+    "number": "N4409", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Responses to PDTS comments on Transactional Memory", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4410.html", 
+    "number": "N4410", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Transactional Memory"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Task Block (formerly Task Region) R4", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4411.pdf", 
+    "number": "N4411", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Pablo Halpern", 
+      "Arch Robison", 
+      "Hong Hong", 
+      "Artur Laksberg", 
+      "Gor Nishanov", 
+      "Herb Sutter"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Library Evolution", 
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Shortcomings of iostreams", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4412.html", 
+    "number": "N4412", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Constexpr Lambas", 
+    "url": null, 
+    "number": "N4413", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Faisal Vali"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Executors and Schedulers Revision 5", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4414.pdf", 
+    "number": "N4414", 
+    "prev_version": "N4143", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Chris Mysen"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Simple Contracts for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4415.pdf", 
+    "number": "N4415", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Gabriel Dos Reis", 
+      "J. Daniel Garcia", 
+      "Francesco Logozzo", 
+      "Manuel Fahndrich", 
+      "Shuvendu Lahri"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Don't Move: Vector Can Have Your Non-Moveable Types Covered", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4416.pdf", 
+    "number": "N4416", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Nevin Liber"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Source-Code Information Capture", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4417.pdf", 
+    "number": "N4417", 
+    "prev_version": "N4129", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Robert Douglas"
+    ], 
+    "date": "2015-04-08", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Parameter Stringization", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4418.pdf", 
+    "number": "N4418", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Robert Douglas"
+    ], 
+    "date": "2015-04-08", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Potential extensions to Source-Code Information Capture", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4419.pdf", 
+    "number": "N4419", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Robert Douglas"
+    ], 
+    "date": "2015-04-08", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Defining Test Code", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4420.pdf", 
+    "number": "N4420", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Robert Douglas"
+    ], 
+    "date": "2015-04-08", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Active Issues List (Revision R11)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4421.html", 
+    "number": "N4421", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Completed Issues List (Revision R11)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4422.html", 
+    "number": "N4422", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Closed Issues List (Revision R11)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4423.html", 
+    "number": "N4423", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Inline Variables", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4424.pdf", 
+    "number": "N4424", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Hal Finkel", 
+      "Richard Smith"
+    ], 
+    "date": "2015-04-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Generalized Dynamic Assumptions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4425.pdf", 
+    "number": "N4425", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Hal Finkel"
+    ], 
+    "date": "2015-04-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Adding [nothrow-] swappable traits", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4426.html", 
+    "number": "N4426", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Daniel Kr\u00fcgler"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Agenda and Meeting Notice for WG21 Pre-Lenexa Telecon Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4427.pdf", 
+    "number": "N4427", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2015-04-08", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Type Property Queries (rev 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4428.pdf", 
+    "number": "N4428", 
+    "prev_version": "N4113", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Andrew Tomazos", 
+      "Christian Kaeser"
+    ], 
+    "date": "2015-04-08", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Core issue 1941 - rewording inherited constructors", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4429.html", 
+    "number": "N4429", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Core issue 1776 - replacement of class objects containing reference members", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4430.html", 
+    "number": "N4430", 
+    "prev_version": "N4303", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4431.pdf", 
+    "number": "N4431", 
+    "prev_version": "N4296", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Editor's Report -- Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4432.html", 
+    "number": "N4432", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Flexible static_assert messages", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4433.html", 
+    "number": "N4433", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Michael Price"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Tweaks to Streamline Concepts Lite Syntax", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4434.pdf", 
+    "number": "N4434", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Walter Brown"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposing Contract Attributes", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4435.pdf", 
+    "number": "N4435", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Walter Brown"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposing Standard Library Support for the C++ Detection Idiom", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4436.pdf", 
+    "number": "N4436", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Walter Brown"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Conditionally-supported Special Math Functions, v3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4437.pdf", 
+    "number": "N4437", 
+    "prev_version": "N3743", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Walter Brown"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Industrial Experience with Transactional Memory at Wyatt Technologies.", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4438.pdf", 
+    "number": "N4438", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Brett Hall"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Transactional Memory"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Light-Weight Execution Agents Revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4439.pdf", 
+    "number": "N4439", 
+    "prev_version": "N4156", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Torvald Riegel"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Feature-testing recommendations for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4440.html", 
+    "number": "N4440", 
+    "prev_version": "N4200", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2014-04-10", 
+    "subgroups": [
+      "Feature Testing"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SG5: Transactional Memory (TM) Meeting Minutes 2015-03-23 and 2015-04-06", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4441.pdf", 
+    "number": "N4441", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Transactional Memory"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Default argument for second parameter of std::advance (Rev. 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4442.htm", 
+    "number": "N4442", 
+    "prev_version": "N4369", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Vladimir Grigoriev"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Introducing alias size_type for type size_t in class std::bitset (Rev. 1 )", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4443.htm", 
+    "number": "N4443", 
+    "prev_version": "N4368", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Vladimir Grigoriev"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Linux-Kernel Memory Model", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4444.html", 
+    "number": "N4444", 
+    "prev_version": "N4374", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Overly attached promise", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4445.html", 
+    "number": "N4445", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Agust\u00edn Berg\u00e9", 
+      "Hartmut Kaiser"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "The missing INVOKE related trait", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4446.html", 
+    "number": "N4446", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Agust\u00edn Berg\u00e9"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "From a type T, gather members name and type information, via variadic template expansion", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4447.pdf", 
+    "number": "N4447", 
+    "prev_version": "N3987", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Cleiton Santoia Silva", 
+      "Daniel Auresco"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Rounding and Overflow in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4448.html", 
+    "number": "N4448", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Message Digest Library for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4449.html", 
+    "number": "N4449", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Variant: a typesafe union (v2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4450.pdf", 
+    "number": "N4450", 
+    "prev_version": "N4218", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Axel Naumann"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Static reflection", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4451.pdf", 
+    "number": "N4451", 
+    "prev_version": "N4111", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Mat\u00fas\u030c Chochl\u00edk"
+    ], 
+    "date": "2014-04-11", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Use cases of reflection", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4452.pdf", 
+    "number": "N4452", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Mat\u00fas\u030c Chochl\u00edk"
+    ], 
+    "date": "2014-04-11", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Resumable Expressions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4453.pdf", 
+    "number": "N4453", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Christopher Kohlhoff"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SIMD Types Example: Matrix Multiplication", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4454.pdf", 
+    "number": "N4454", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Matthias Kretz"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "No Sane Compiler Would Optimize Atomics", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4455.html", 
+    "number": "N4455", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "JF Bastien"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Towards improved support for games, graphics, real-time, low latency, embedded systems", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4456.pdf", 
+    "number": "N4456", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Active Issues, Revision 93", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4457.html", 
+    "number": "N4457", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Defect Reports and Accepted Issues, Revision 93", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4458.html", 
+    "number": "N4458", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Closed Issues, Revision 93", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4459.html", 
+    "number": "N4459", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "LWG 2424: Atomics, mutexes and condition variables should not be trivially copyable", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4460.html", 
+    "number": "N4460", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Static if resurrected", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4461.html", 
+    "number": "N4461", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "LWG 2089, Towards more perfect forwarding", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4462.html", 
+    "number": "N4462", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "IO device requirements for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4463.pdf", 
+    "number": "N4463", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Cleiton Santoia Silva", 
+      "Daniel Auresco"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "I", 
+      "O"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Pi-calculus syntax for C++ executors", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4464.pdf", 
+    "number": "N4464", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Cleiton Santoia Silva"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Module System for C++ (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4465.pdf", 
+    "number": "N4465", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Gabriel Dos Reis", 
+      "Mark Hall", 
+      "Gor Nishanov"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Wording for Modules", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4466.pdf", 
+    "number": "N4466", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Gabriel Dos Reis"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Modules: Directions and Issues", 
+    "url": null, 
+    "number": "N4467", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Gabriel Dos Reis"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "On Quantifying Memory-Allocation Strategies", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4468.pdf", 
+    "number": "N4468", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "John Lakos", 
+      "Jeffrey Mendelsohn", 
+      "Alisdair Meredith", 
+      "Nathan Myers"
+    ], 
+    "date": "2015-04-11", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Template Argument Type Deduction", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4469.html", 
+    "number": "N4469", 
+    "prev_version": "N3601", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "James Touton", 
+      "Mike Spertus"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Variadic lock_guard", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4470.html", 
+    "number": "N4470", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Template parameter deduction for constructors (Rev 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4471.html", 
+    "number": "N4471", 
+    "prev_version": "N3602", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "consexpr goto", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4472.html", 
+    "number": "N4472", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "noexcept(auto), again", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4473.html", 
+    "number": "N4473", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Unified Call Syntax: x.f(y) and f(x,y)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4474.pdf", 
+    "number": "N4474", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Bjarne Stroustrup", 
+      "Herb Sutter"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Default comparisons (R2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4475.pdf", 
+    "number": "N4475", 
+    "prev_version": "N4175", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Thoughts about Comparisons (R2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4476.pdf", 
+    "number": "N4476", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Operator Dot (R2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4477.pdf", 
+    "number": "N4477", 
+    "prev_version": "N4173", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Bjarne Stroustrup", 
+      "Gabriel Dos Reis"
+    ], 
+    "date": "2015-04-09", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Networking Library Proposal (Revision 5", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4478.html", 
+    "number": "N4478", 
+    "prev_version": "N4370", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Christopher Kohlhoff"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      "Library Evoution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Merge Fundamentals V1 into v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4479.html", 
+    "number": "N4479", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Library Evoution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Programming Languages -- C++ Extensions for Library Fundamentals DTS", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4480.html", 
+    "number": "N4480", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2015-04-07", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, C++ Extensions for Library Fundamentals, Version 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4481.html", 
+    "number": "N4481", 
+    "prev_version": "N4336", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Some notes on executors and the Networking Library Proposal", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4482.html", 
+    "number": "N4482", 
+    "prev_version": "", 
+    "mailing_date": "2015-04", 
+    "authors": [
+      "Christopher Kohlhoff"
+    ], 
+    "date": "2015-04-13", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Read-copy-update", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4483.pdf", 
+    "number": "N4483", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Paul E. McKenney"
+    ], 
+    "date": "2015-04-14", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R93)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4484.html", 
+    "number": "N4484", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2015-05-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R93)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4485.html", 
+    "number": "N4485", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2015-05-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R93)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4486.html", 
+    "number": "N4486", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2015-05-23", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Constexpr lambdas", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4487.pdf", 
+    "number": "N4487", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Faisal Vali", 
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-04-28", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Responses to PDTS comments on Transactional Memory, version 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4488.html", 
+    "number": "N4488", 
+    "prev_version": "N4410", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-05-07", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "WG21 2015-04-24 Telecon Minutes", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4489.html", 
+    "number": "N4489", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2015-04-29", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "WG21 2015-05 Lenexa Minutes", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4490.html", 
+    "number": "N4490", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2015-05-29", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "PL22.16 2015-05 Lenexa Minutes (Draft)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4491.pdf", 
+    "number": "N4491", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2015-05-30", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Thoughts about C++17", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4492.pdf", 
+    "number": "N4492", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2015-05-15", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Thoughts on propagate_const", 
+    "url": null, 
+    "number": "N4493", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Jonathan Coe"
+    ], 
+    "date": null, 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Multidimensional bounds, offset and array_view, revision 6", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4494.html", 
+    "number": "N4494", 
+    "prev_version": "N4346", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Lukasz Mendakiewicz", 
+      "Herb Sutter"
+    ], 
+    "date": "2015-05-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Operator dot", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4495.html", 
+    "number": "N4495", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Mathias Gaunard", 
+      "Dietmar K\u00fchl"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "WG21 2014-11 Urbana Minutes (revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4496.html", 
+    "number": "N4496", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2015-05-28", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "PL22.16 2014-11 Urbana Minutes (Final)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4497.pdf", 
+    "number": "N4497", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2015-05-30", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Variadic lock_guard (Rev. 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4498.html", 
+    "number": "N4498", 
+    "prev_version": "N4470", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2015-05-04", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Draft wording for Coroutines (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4499.pdf", 
+    "number": "N4499", 
+    "prev_version": "N4403", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Gor Nishanov", 
+      "Daveed Vandevoorde"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Withdrawn", 
+    "url": null, 
+    "number": "N4500", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      ""
+    ], 
+    "date": null, 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "Working Draft, Technical Specification for C++ Extensions for Concurrency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4501.html", 
+    "number": "N4501", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Artur Laksberg"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "Proposing Standard Library Support for the C++ Detection Idiom, V2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4502.pdf", 
+    "number": "N4502", 
+    "prev_version": "N4436", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2015-05-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Atomic View (V3)", 
+    "url": null, 
+    "number": "N4503", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Carter Edwards"
+    ], 
+    "date": null, 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Atomic View - Floats", 
+    "url": null, 
+    "number": "N4504", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Carter Edwards"
+    ], 
+    "date": null, 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "Working Draft, Technical Specification for C++ Extensions for Parallelism", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4505.pdf", 
+    "number": "N4505", 
+    "prev_version": "N4407", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-05-05", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Parallelism TS Editor's Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4506.pdf", 
+    "number": "N4506", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-05-06", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Technical Specification for C++ Extensions for Parallelism", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4507.pdf", 
+    "number": "N4507", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jared Hoberock"
+    ], 
+    "date": "2015-05-05", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "A proposal to add shared_mutex (untimed) (Revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4508.html", 
+    "number": "N4508", 
+    "prev_version": "N4241", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Gor Nishanov"
+    ], 
+    "date": "2015-05-05", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "constexpr atomic", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4509.html", 
+    "number": "N4509", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Olivier Giroux", 
+      "JF Bastien", 
+      "Jeff Snyder"
+    ], 
+    "date": "2015-05-05", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "Minimal incomplete type support for standard containers, revision 4", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4510.html", 
+    "number": "N4510", 
+    "prev_version": "N4390", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2015-05-05", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Adding [nothrow-]swappable traits, revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4511.html", 
+    "number": "N4511", 
+    "prev_version": "N4426", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Daniel Kr\u00fcgler"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Multidimensional bounds, offset and array_view, revision 7", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4512.html", 
+    "number": "N4512", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "_ukasz Mendakiewicz", 
+      "Herb Sutter"
+    ], 
+    "date": "2015-05-07", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "Working Draft Technical Specification for C++ Extensions for Transactional Memory", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4513.pdf", 
+    "number": "N4513", 
+    "prev_version": "N4301", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Technical Specification for C++ Extensions for Transactional Memory", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4514.pdf", 
+    "number": "N4514", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Editor's Report: Technical Specification for C++ Extensions for Transactional Memory", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4515.html", 
+    "number": "N4515", 
+    "prev_version": "N4338", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Variant: a type-safe union (v3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4516.pdf", 
+    "number": "N4516", 
+    "prev_version": "N4450", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Axel Naumann"
+    ], 
+    "date": "2015-05-06", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Record of Response: National Body Comments ISO/IEC PDTS 19841", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4517.pdf", 
+    "number": "N4517", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Barry Hedquist"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Make exception specifications be part of the type system, version 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4518.html", 
+    "number": "N4518", 
+    "prev_version": "N4320", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "Source-Code Information Capture", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4519.pdf", 
+    "number": "N4519", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Robert Douglas"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Light-weight EAS rev. 5", 
+    "url": null, 
+    "number": "N4520", 
+    "prev_version": "", 
+    "mailing_date": null, 
+    "authors": [
+      "Torvald Riegel"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "Merge Fundamentals V1 into V2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4521.html", 
+    "number": "N4521", 
+    "prev_version": "N4479", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jeffrey Yaskin"
+    ], 
+    "date": "2015-04-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "std::atomic_object_fence(mo, T&&...)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4522.html", 
+    "number": "N4522", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Olivier Giroux", 
+      "JF Bastien"
+    ], 
+    "date": "2015-05-21", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "constexpr std::thread::hardware_{true,false}_sharing_size", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4523.html", 
+    "number": "N4523", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Olivier Giroux", 
+      "JF Bastien"
+    ], 
+    "date": "2015-05-21", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Respect vector::reserve(request) Relative to Reallocation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4524.pdf", 
+    "number": "N4524", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Nevin Liber"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2015-05", 
+    "title": "C++ Standard Library Issues Resolved Directly In Lenexa", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4525.html", 
+    "number": "N4525", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Towards improved support for games, graphics, real-time, low latency, embedded systems", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4526.pdf", 
+    "number": "N4526", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Michael Wong", 
+      "Sean Middleditch", 
+      "Nicolas Guillemot"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "SG14"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4527.pdf", 
+    "number": "N4527", 
+    "prev_version": "N4431", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Editor's Report -- Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4528.html", 
+    "number": "N4528", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, C++ Extensions for Library Fundamentals, Version 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4529.html", 
+    "number": "N4529", 
+    "prev_version": "N4481", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jeffrey Yaskin"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Editor's Report for the Library Fundamentals TS", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4530.html", 
+    "number": "N4530", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jeffrey Yaskin"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "std::rand replacement, revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4531.html", 
+    "number": "N4531", 
+    "prev_version": "N4316", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2015-05-08", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposed wording for default comparisons", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4532.html", 
+    "number": "N4532", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Make exception specifications be part of the type system, version 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4533.html", 
+    "number": "N4533", 
+    "prev_version": "N4518", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-05-20", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Data-Invariant Functions (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4534.html", 
+    "number": "N4534", 
+    "prev_version": "N4314", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Feature-testing preprocessor predicates for C++17", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4535.html", 
+    "number": "N4535", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Clark Nelson", 
+      "Richard Smith"
+    ], 
+    "date": "2015-05-06", 
+    "subgroups": [
+      "Feature Testing"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "An algorithm to \"clamp\" a value between a pair of boundary values", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4536.html", 
+    "number": "N4536", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Martin Moene", 
+      "Niels Dekker"
+    ], 
+    "date": "2015-05-17", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Adding Symmetry Between shared_ptr and weak_ptr", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4537.html", 
+    "number": "N4537", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Arthur O'Dwyer"
+    ], 
+    "date": "2015-05-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Technical Specification for C++ Extensions for\nConcurrency", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4538.pdf", 
+    "number": "N4538", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Artur Laksberg"
+    ], 
+    "date": "2015-05-20", 
+    "subgroups": [
+      ""
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Active Issues List (Revision R12)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4539.html", 
+    "number": "N4539", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Completed Issues List (Revision R12)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4540.html", 
+    "number": "N4540", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Closed Issues List (Revision R12)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4541.html", 
+    "number": "N4541", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2015-05-22", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Variant: a type-safe union (v4).", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4542.pdf", 
+    "number": "N4542", 
+    "prev_version": "N4516", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Axel Naumann"
+    ], 
+    "date": "2015-05-24", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A polymorphic wrapper for all Callable objects", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4543.pdf", 
+    "number": "N4543", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "David Krauss"
+    ], 
+    "date": "2015-05-26", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "October 2015 WG21 Meeting (Kona)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4544.htm", 
+    "number": "N4544", 
+    "prev_version": "", 
+    "mailing_date": "2015-05", 
+    "authors": [
+      "Thomas Plum"
+    ], 
+    "date": "2015-05-26", 
+    "subgroups": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,5011 @@
+[
+  {
+    "disposition": "", 
+    "title": "2013 PL22.16/WG21 document list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/sd-1.htm", 
+    "number": "SD-1", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2013-10-17", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "ISO WG21 and INCITS PL22.16 membership list", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/sd-2.htm", 
+    "number": "SD-2", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Compile-time integer sequences", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3493.html", 
+    "number": "N3493", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A proposal to add special mathematical functions according to the ISO/IEC 80000-2:2009\n\t\t\t\tstandard", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3494.pdf", 
+    "number": "N3494", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Vincent Reverdy"
+    ], 
+    "date": "2012-12-19", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "inplace realloc", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3495.htm", 
+    "number": "N3495", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Ariane van der Steldt"
+    ], 
+    "date": "2012-12-07", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "AGENDA, PL22.16 Meeting No. 60, WG21 Meeting No. 55, April 15-20, 2013 -- Bristol,\n\t\t\t\tUK", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3496.pdf", 
+    "number": "N3496", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2013-01-02", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Runtime-sized arrays with automatic storage duration (revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3497.html", 
+    "number": "N3497", 
+    "prev_version": "N3467", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2013-01-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Core Issue 1512: Pointer comparison vs qualification conversions (revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3498.html", 
+    "number": "N3498", 
+    "prev_version": "N3478", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2013-01-07", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Digit Separators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3499.html", 
+    "number": "N3499", 
+    "prev_version": "N2281", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2012-12-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "New assert variants", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3500.htm", 
+    "number": "N3500", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Olaf van der Spek"
+    ], 
+    "date": "2012-11-28", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Active Issues, Revision 82", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3501.html", 
+    "number": "N3501", 
+    "prev_version": "N3480", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Defect Reports and Accepted Issues, Revision 82", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3502.html", 
+    "number": "N3502", 
+    "prev_version": "N3481", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Closed Issues, Revision 82", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3503.html", 
+    "number": "N3503", 
+    "prev_version": "N3482", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-01-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Filesystem Library Proposal (Revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3505.html", 
+    "number": "N3505", 
+    "prev_version": "N3399", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2013-01-12", 
+    "subgroups": [
+      "Filesystem"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A printf-like Interface for the Streams Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3506.html", 
+    "number": "N3506", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2012-12-26", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A URI Library for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3507.html", 
+    "number": "N3507", 
+    "prev_version": "N3484", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "G.\u00a0Matthews", 
+      "D.\u00a0Berris"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Any Library Proposal (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3508.html", 
+    "number": "N3508", 
+    "prev_version": "N3390", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "B.\u00a0Dawes", 
+      "K.\u00a0Henney"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Operator Bool for Ranges", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3509.htm", 
+    "number": "N3509", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Olaf van der Spek"
+    ], 
+    "date": "2012-12-19", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "std::split(): An algorithm for splitting strings", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3510.html", 
+    "number": "N3510", 
+    "prev_version": "N3430", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Greg Miller"
+    ], 
+    "date": "2013-01-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "exchange() utility function", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3511.html", 
+    "number": "N3511", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-01-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "string_ref: a non-owning reference to a string, revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3512.html", 
+    "number": "N3512", 
+    "prev_version": "N3442", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Range arguments for container constructors and methods, wording revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3513.html", 
+    "number": "N3513", 
+    "prev_version": "N3456", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": [
+      "Ranges"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A Proposal for the World's Dumbest Smart Pointer", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3514.pdf", 
+    "number": "N3514", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Walter Brown"
+    ], 
+    "date": "2012-12-19", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Toward Opaque Typedefs for C++1Y", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3515.pdf", 
+    "number": "N3515", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Walter Brown"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R81)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3516.html", 
+    "number": "N3516", 
+    "prev_version": "N3473", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-01-15", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R81)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3517.html", 
+    "number": "N3517", 
+    "prev_version": "N3474", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-01-15", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R81)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3518.html", 
+    "number": "N3518", 
+    "prev_version": "N3475", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-01-15", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Feb 5, 2013 SG1 Teleconference Announcement and Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3519.htm", 
+    "number": "N3519", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Hans Boehm"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Critical sections in vector loops", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3520.pdf", 
+    "number": "N3520", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Robert Geva"
+    ], 
+    "date": "2013-01-11", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "convert() utility function", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3521.html", 
+    "number": "N3521", 
+    "prev_version": "", 
+    "mailing_date": "2013-01", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-01-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R82)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3522.html", 
+    "number": "N3522", 
+    "prev_version": "N3516", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R82)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3523.html", 
+    "number": "N3523", 
+    "prev_version": "N3517", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R82)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3524.html", 
+    "number": "N3524", 
+    "prev_version": "N3518", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Polymorphic Allocators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3525.pdf", 
+    "number": "N3525", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Uniform initialization for arrays and class aggregate types", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3526.html", 
+    "number": "N3526", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Michael Price"
+    ], 
+    "date": "2013-01-21", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A proposal to add a utility class to represent optional objects (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3527.html", 
+    "number": "N3527", 
+    "prev_version": "N3406", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "F.\u00a0Cacciola", 
+      "A.\u00a0Krzemie\u0144ski"
+    ], 
+    "date": "2013-03-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes of Feb 5 2013 SG1 Phone Call", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3528.html", 
+    "number": "N3528", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2013-02-05", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "SG5: Transactional Memory (TM) Meeting Minutes 2012/10/30-2013/02/04", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3529.pdf", 
+    "number": "N3529", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2013-02-14", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Leveraging OpenMP infrastructure for language level parallelisation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3530.pdf", 
+    "number": "N3530", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "D.\u00a0Gove", 
+      "N.\u00a0Copty", 
+      "M.\u00a0Wong"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "User-defined Literals for Standard Library Types (version 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3531.pdf", 
+    "number": "N3531", 
+    "prev_version": "N3468", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Peter Sommerlad"
+    ], 
+    "date": "2013-03-08", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "C++ Dynamic Arrays", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3532.html", 
+    "number": "N3532", 
+    "prev_version": "N2648", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "M.\u00a0Austern"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Concurrent Queues", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3533.html", 
+    "number": "N3533", 
+    "prev_version": "N3434", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "C.\u00a0Mysen"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Pipelines", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3534.html", 
+    "number": "N3534", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "A.\u00a0Mackintosh", 
+      "A.\u00a0Berkan"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Stream Mutexes", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3535.html", 
+    "number": "N3535", 
+    "prev_version": "N3395", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-03-06", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "C++ Sized Deallocation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3536.html", 
+    "number": "N3536", 
+    "prev_version": "N3432", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-03-05", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Clarifying Memory Allocation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3537.html", 
+    "number": "N3537", 
+    "prev_version": "N3433", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "C.\u00a0Carruth"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Pass by Const Reference or Value", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3538.html", 
+    "number": "N3538", 
+    "prev_version": "N3445", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-03-06", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Active Issues, Revision 83", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3539.html", 
+    "number": "N3539", 
+    "prev_version": "N3501", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Defect Reports and Accepted Issues, Revision 83", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3540.html", 
+    "number": "N3540", 
+    "prev_version": "N3502", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Closed Issues, Revision 83", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3541.html", 
+    "number": "N3541", 
+    "prev_version": "N3503", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Revised N3809", 
+    "title": "Proposal for Unbounded-Precision Integer Types", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3542.html", 
+    "number": "N3542", 
+    "prev_version": "N3417", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Numerics"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Priority Queue, Queue and Stack: Changes and Additions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3543.pdf", 
+    "number": "N3543", 
+    "prev_version": "N3479", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "G.\u00a0Powell", 
+      "T.\u00a0Blechmann"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SG5: Transactional Memory (TM) Meeting Minutes 2013/02/25-2013/03/04", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3544.pdf", 
+    "number": "N3544", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2013-03-06", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "An Incremental Improvement to integral_constant", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3545.pdf", 
+    "number": "N3545", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "TransformationTraits Redux", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3546.pdf", 
+    "number": "N3546", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Three <random>-related Proposals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3547.pdf", 
+    "number": "N3547", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Conditionally-supported Special Math Functions for C++14", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3548.pdf", 
+    "number": "N3548", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "s/bound/extent/", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3549.pdf", 
+    "number": "N3549", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposed C++14 Value Classification", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3550.pdf", 
+    "number": "N3550", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Random Number Generation in C++11", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3551.pdf", 
+    "number": "N3551", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Introducing Object Aliases", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3552.pdf", 
+    "number": "N3552", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposing a C++1Y Swap Operator", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3553.pdf", 
+    "number": "N3553", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A Parallel Algorithms Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3554.pdf", 
+    "number": "N3554", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "J.\u00a0Hoberock", 
+      "O.\u00a0Giroux", 
+      "V.\u00a0Grover", 
+      "H.\u00a0Sutter", 
+      "et\u00a0al."
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A URI Library for C++", 
+    "url": null, 
+    "number": "N3555", 
+    "prev_version": "N3507", 
+    "mailing_date": null, 
+    "authors": [
+      "G.\u00a0Matthews", 
+      "D.\u00a0Berris"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Thread-Local Storage in X-Parallel Computations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3556.pdf", 
+    "number": "N3556", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "P.\u00a0Halpern", 
+      "C.\u00a0Leiserson"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Considering a Fork-Join Parallelism Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3557.pdf", 
+    "number": "N3557", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A Standardized Representation of Asynchronous Operations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3558.pdf", 
+    "number": "N3558", 
+    "prev_version": "N3428", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "N.\u00a0Gustafsson", 
+      "A.\u00a0Laksberg", 
+      "H.\u00a0Sutter", 
+      "S.\u00a0Mithani"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Proposal for Generic (Polymorphic) Lambda Expressions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3559.pdf", 
+    "number": "N3559", 
+    "prev_version": "N3418", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "F.\u00a0Vali", 
+      "H.\u00a0Sutter", 
+      "D.\u00a0Abrahams"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposal for Assorted Extensions to Lambda Expressions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3560.pdf", 
+    "number": "N3560", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "F.\u00a0Vali", 
+      "H.\u00a0Sutter", 
+      "D.\u00a0Abrahams"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Semantics of Vector Loops", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3561.pdf", 
+    "number": "N3561", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "R.\u00a0Geva", 
+      "C.\u00a0Nelson"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Executors and schedulers, revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3562.pdf", 
+    "number": "N3562", 
+    "prev_version": "N3378", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "M.\u00a0Austern", 
+      "L.\u00a0Crowl", 
+      "C.\u00a0Carruth", 
+      "N.\u00a0Gustafsson", 
+      "et\u00a0al."
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Mapreduce", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3563.pdf", 
+    "number": "N3563", 
+    "prev_version": "N3446", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "C.\u00a0Mysen", 
+      "L.\u00a0Crowl", 
+      "A.\u00a0Berkan"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Resumable Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3564.pdf", 
+    "number": "N3564", 
+    "prev_version": "N3328", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "N.\u00a0Gustafsson", 
+      "D.\u00a0Brewis", 
+      "H.\u00a0Sutter", 
+      "S.\u00a0Mithani"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "IP Address Design Constraints", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3565.pdf", 
+    "number": "N3565", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Aleksandar Fabijanic"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Open Issues", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3566.html", 
+    "number": "N3566", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Evolution Closed Issues", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3567.html", 
+    "number": "N3567", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Shared locking in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3568.html", 
+    "number": "N3568", 
+    "prev_version": "N3427", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Howard Hinnant"
+    ], 
+    "date": "2013-03-11", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "SPRING 2014 JTC1/SC22/WG21 C++ STANDARDS COMMITTEE MEETING: Preliminary Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3569.pdf", 
+    "number": "N3569", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Peter Sommerlad"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Quoted Strings Library Proposal (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3570.html", 
+    "number": "N3570", 
+    "prev_version": "N3431", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2013-03-14", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Proposal to add Single Instruction Multiple Data Computation to the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3571.pdf", 
+    "number": "N3571", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "P.\u00a0Est\u00e9rie", 
+      "M.\u00a0Gaunard", 
+      "J.\u00a0Falcou"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Unicode Support in the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3572.html", 
+    "number": "N3572", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Mark Boyall"
+    ], 
+    "date": "2013-03-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Heterogenous extensions to unordered containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3573.html", 
+    "number": "N3573", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Mark Boyall"
+    ], 
+    "date": "2013-03-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Binding stateful functions as function pointers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3574.html", 
+    "number": "N3574", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Mark Boyall"
+    ], 
+    "date": "2013-03-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Additional Standard allocation schemes", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3575.html", 
+    "number": "N3575", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Mark Boyall"
+    ], 
+    "date": "2013-03-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SG8 Concepts Teleconference Minutes - 2013-03-12", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3576.pdf", 
+    "number": "N3576", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Fall 2013 JTC1/SC22/WG21 C++ Standards Committee Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3577.pdf", 
+    "number": "N3577", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Nevin Liber"
+    ], 
+    "date": "2013-03-14", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposing the Rule of Five", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3578.pdf", 
+    "number": "N3578", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A type trait for signatures", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3579.html", 
+    "number": "N3579", 
+    "prev_version": "N3466", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Concepts Lite: Constraining Templates with Predicates", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3580.pdf", 
+    "number": "N3580", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "A.\u00a0Sutton", 
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Concepts"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Delimited iterators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3581.html", 
+    "number": "N3581", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2013-03-16", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Return type deduction for normal functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3582.html", 
+    "number": "N3582", 
+    "prev_version": "N3386", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Jason Merrill"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Exploring constexpr at Runtime", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3583.pdf", 
+    "number": "N3583", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Scott Schurr"
+    ], 
+    "date": "2013-03-13", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Wording for Accessing Tuple Fields by Type", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3584.html", 
+    "number": "N3584", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2013-03-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Iterator-Related Improvements to Containers (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3585.pdf", 
+    "number": "N3585", 
+    "prev_version": "N3450", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Alan Talbot"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Splicing Maps and Sets", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3586.pdf", 
+    "number": "N3586", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "A.\u00a0Talbot", 
+      "H.\u00a0Hinnant"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "For Loop Exit Strategies", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3587.pdf", 
+    "number": "N3587", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Alan Talbot"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "make_unique", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3588.htm", 
+    "number": "N3588", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Stephan T. Lavavej"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Summary of Progress Since Portland towards Transactional Language Constructs for\n\t\t\t\tC++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3589.pdf", 
+    "number": "N3589", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "H.\u00a0Boehm", 
+      "J.\u00a0Gottschlich", 
+      "V.\u00a0Luchangco", 
+      "M.\u00a0Wong", 
+      "et\u00a0al."
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Summary of Discussions on Explicit Cancellation in Transactional Language Constructs\n\t\t\t\tfor C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3591.pdf", 
+    "number": "N3591", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "H.\u00a0Boehm", 
+      "J.\u00a0Gottschlich", 
+      "M.\u00a0Moir", 
+      "M.\u00a0Wong", 
+      "et\u00a0al."
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Alternative cancellation and data escape mechanisms for transactions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3592.html", 
+    "number": "N3592", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Torvald Riegel"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "std::split(): An algorithm for splitting strings", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3593.html", 
+    "number": "N3593", 
+    "prev_version": "N3510", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Greg Miller"
+    ], 
+    "date": "2013-03-13", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "std::join(): An algorithm for joining a range of elements", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3594.html", 
+    "number": "N3594", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Greg Miller"
+    ], 
+    "date": "2013-03-13", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Simplifying Argument-Dependent Lookup Rules", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3595.pdf", 
+    "number": "N3595", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Peter Gottschling"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Code Reuse in Class Template Specialization", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3596.pdf", 
+    "number": "N3596", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Peter Gottschling"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Relaxing constraints on constexpr functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3597.html", 
+    "number": "N3597", 
+    "prev_version": "N3444", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "constexpr member functions and implicit const", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3598.html", 
+    "number": "N3598", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2013-03-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Literal operator templates for strings", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3599.html", 
+    "number": "N3599", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2013-03-13", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "C++ Latches and Barriers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3600.html", 
+    "number": "N3600", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Alasdair Mackintosh"
+    ], 
+    "date": "2013-03-16", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Implicit template parameters", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3601.html", 
+    "number": "N3601", 
+    "prev_version": "N3405", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "M.\u00a0Spertus", 
+      "D.\u00a0Vandevoorde"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Template parameter deduction for constructors", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3602.html", 
+    "number": "N3602", 
+    "prev_version": "N3405", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "M.\u00a0Spertus", 
+      "D.\u00a0Vandevoorde"
+    ], 
+    "date": "2013-03-14", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Three-Class IP Address Proposal", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3603.html", 
+    "number": "N3603", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Christopher Kohlhoff"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Centralized Defensive-Programming Support for Narrow Contracts", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3604.pdf", 
+    "number": "N3604", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "J.\u00a0Lakos", 
+      "A.\u00a0Zakharov"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Member initializers and aggregates", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3605.html", 
+    "number": "N3605", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Extending std::search to use Additional Searching Algorithms", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3606.html", 
+    "number": "N3606", 
+    "prev_version": "N3411", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Making non-modifying sequence operations more robust", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3607.html", 
+    "number": "N3607", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "M.\u00a0Spertus", 
+      "A.\u00a0Pall"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "exchange() utility function, revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3608.html", 
+    "number": "N3608", 
+    "prev_version": "N3511", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "string_view: a non-owning reference to a string, revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3609.html", 
+    "number": "N3609", 
+    "prev_version": "N3512", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Generic lambda-capture initializers, supporting capture-by-move", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3610.html", 
+    "number": "N3610", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Rational Number Library for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3611.html", 
+    "number": "N3611", 
+    "prev_version": "N3489", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Bill Seymour"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Numerics"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Desiderata of a C++11 Database Interface", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3612.pdf", 
+    "number": "N3612", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Thomas Neumann"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "\"Static If\" Considered", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3613.pdf", 
+    "number": "N3613", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis", 
+      "A.\u00a0Sutton"
+    ], 
+    "date": "2013-03-16", 
+    "subgroups": [
+      "Concepts"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "unwinding_exception", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3614.pdf", 
+    "number": "N3614", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-03-11", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Constexpr Variable Templates", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3615.pdf", 
+    "number": "N3615", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Gabriel Dos Reis"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Lifting overload sets into function objects", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3617.htm", 
+    "number": "N3617", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Philipp Juschka"
+    ], 
+    "date": "2013-03-14", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "What can signal handlers do? (CWG 1441)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3618.html", 
+    "number": "N3618", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Hans Boehm"
+    ], 
+    "date": "2013-03-17", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A proposal to add swappability traits to the standard library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3619.html", 
+    "number": "N3619", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Andrew Morrow"
+    ], 
+    "date": "2013-03-15", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Network byte order conversion", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3620.pdf", 
+    "number": "N3620", 
+    "prev_version": "", 
+    "mailing_date": "2013-03", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-03-18", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes, WG21 Teleconference 2013-03-29", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3621.pdf", 
+    "number": "N3621", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-03-29", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes: WG21 Meeting No. 55, 15-20 April 2013 - Bristol, UK", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3622.pdf", 
+    "number": "N3622", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-05-03", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes: PL22.16 Meeting No. 60, 15-20 April 2013 - Bristol, UK", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3623.pdf", 
+    "number": "N3623", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-05-03", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Core Issue 1512: Pointer comparison vs qualification conversions (revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3624.html", 
+    "number": "N3624", 
+    "prev_version": "N3498", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2013-04-15", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A URI Library for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3625.html", 
+    "number": "N3625", 
+    "prev_version": "N3507", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "G.\u00a0Matthews", 
+      "D.\u00a0Berris"
+    ], 
+    "date": "2013-04-30", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Floating-Point Typedefs Having Specified Widths", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3626.pdf", 
+    "number": "N3626", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "P.\u00a0Bristow", 
+      "C.\u00a0Kormanyos", 
+      "J.\u00a0Maddock"
+    ], 
+    "date": "2013-04-05", 
+    "subgroups": [
+      "Numerics"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Relaxed switch statement", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3627.html", 
+    "number": "N3627", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2013-02-07", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C and C++ Compatibility", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3628.pdf", 
+    "number": "N3628", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2013-04-08", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Simplifying C++0x Concepts", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3629.pdf", 
+    "number": "N3629", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Doug Gregor"
+    ], 
+    "date": "2013-04-09", 
+    "subgroups": [
+      "Concepts"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "async, ~future, and ~thread (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3630.pdf", 
+    "number": "N3630", 
+    "prev_version": "N3451", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-04-12", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C11: The New C Standard", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3631.pdf", 
+    "number": "N3631", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Thomas Plum"
+    ], 
+    "date": null, 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Additional std::async Launch Policies", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3632.html", 
+    "number": "N3632", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Peter Dimov"
+    ], 
+    "date": "2013-04-11", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "What can signal handlers do? (CWG 1441)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3633.html", 
+    "number": "N3633", 
+    "prev_version": "N3618", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Hans Boehm"
+    ], 
+    "date": "2013-04-25", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Improvements to std::future<T> and Related APIs", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3634.pdf", 
+    "number": "N3634", 
+    "prev_version": "N3558", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "N.\u00a0Gustafsson", 
+      "A.\u00a0Laksberg", 
+      "H.\u00a0Sutter", 
+      "S.\u00a0Mithani"
+    ], 
+    "date": "2013-05-02", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Towards restrict-like semantics for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3635.pdf", 
+    "number": "N3635", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "M.\u00a0Wong", 
+      "R.\u00a0Silvera", 
+      "R.\u00a0Mak", 
+      "C.\u00a0Cambly", 
+      "et\u00a0al."
+    ], 
+    "date": "2013-04-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "~thread should join", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3636.pdf", 
+    "number": "N3636", 
+    "prev_version": "N3630", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-04-17", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "async and ~future (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3637.pdf", 
+    "number": "N3637", 
+    "prev_version": "N3630", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-04-17", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Return type deduction for normal functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3638.html", 
+    "number": "N3638", 
+    "prev_version": "N3582", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jason Merrill"
+    ], 
+    "date": "2013-04-17", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Runtime-sized arrays with automatic storage duration (revision 5)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3639.html", 
+    "number": "N3639", 
+    "prev_version": "N3497", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jens Maurer"
+    ], 
+    "date": "2013-04-16", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Extending shared_ptr to Support Arrays", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3640.html", 
+    "number": "N3640", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Peter Dimov"
+    ], 
+    "date": "2013-04-15", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Extending make_shared to Support Arrays", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3641.html", 
+    "number": "N3641", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Peter Dimov"
+    ], 
+    "date": "2013-05-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "User-defined Literals for Standard Library Types (part 1 - version 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3642.pdf", 
+    "number": "N3642", 
+    "prev_version": "N3531", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Peter Sommerlad"
+    ], 
+    "date": "2013-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Range Adaptor for Selecting from Pair or Tuple", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3643.pdf", 
+    "number": "N3643", 
+    "prev_version": "N3585", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Alan Talbot"
+    ], 
+    "date": "2013-04-16", 
+    "subgroups": [
+      "Ranges"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Null Forward Iterators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3644.pdf", 
+    "number": "N3644", 
+    "prev_version": "N3585", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Alan Talbot"
+    ], 
+    "date": "2013-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Splicing Maps and Sets (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3645.pdf", 
+    "number": "N3645", 
+    "prev_version": "N3586", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "A.\u00a0Talbot", 
+      "H.\u00a0Hinnant", 
+      "J.\u00a0Dennett", 
+      "J.\u00a0Wakely"
+    ], 
+    "date": "2013-05-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Network byte order conversion", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3646.pdf", 
+    "number": "N3646", 
+    "prev_version": "N3620", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Robert Pratte"
+    ], 
+    "date": "2013-04-16", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes: PL22.16 Meeting No. 59, 15-19 October 2012 Portland, Oregon, USA", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3647.pdf", 
+    "number": "N3647", 
+    "prev_version": "N3455", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-04-15", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Wording Changes for Generalized Lambda-capture", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3648.html", 
+    "number": "N3648", 
+    "prev_version": "N3610", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "D.\u00a0Vandevoorde", 
+      "V.\u00a0Voutilainen"
+    ], 
+    "date": "2013-04-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Generic (Polymorphic) Lambda Expressions (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3649.html", 
+    "number": "N3649", 
+    "prev_version": "N3559", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "F.\u00a0Vali", 
+      "H.\u00a0Sutter", 
+      "D.\u00a0Abrahams"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Resumable Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3650.pdf", 
+    "number": "N3650", 
+    "prev_version": "N3564", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "N.\u00a0Gustafsson", 
+      "D.\u00a0Brewis", 
+      "H.\u00a0Sutter", 
+      "S.\u00a0Mithani"
+    ], 
+    "date": "2013-05-02", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Variable Templates (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3651.pdf", 
+    "number": "N3651", 
+    "prev_version": "N3615", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Gabriel Dos Reis"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Relaxing constraints on constexpr functions / constexpr member functions and implicit\n\t\t\t\tconst", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3652.html", 
+    "number": "N3652", 
+    "prev_version": "N3597, N3598", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Richard Smith"
+    ], 
+    "date": "2013-04-18", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Member initializers and aggregates", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3653.html", 
+    "number": "N3653", 
+    "prev_version": "N3605", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "V.\u00a0Voutilainen", 
+      "R.\u00a0Smith"
+    ], 
+    "date": "2013-04-17", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Quoted Strings Library Proposal (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3654.html", 
+    "number": "N3654", 
+    "prev_version": "N3570", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "TransformationTraits Redux, v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3655.pdf", 
+    "number": "N3655", 
+    "prev_version": "N3546", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "make_unique (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3656.htm", 
+    "number": "N3656", 
+    "prev_version": "N3588", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Stephan T. Lavavej"
+    ], 
+    "date": "2013-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Adding heterogeneous comparison lookup to associative containers (rev 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3657.htm", 
+    "number": "N3657", 
+    "prev_version": "N3465", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "J.\u00a0Wakely", 
+      "S.\u00a0Lavavej", 
+      "J.\u00a0Mu\u00f1oz"
+    ], 
+    "date": "2013-03-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Compile-time integer sequences", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3658.html", 
+    "number": "N3658", 
+    "prev_version": "N3493", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jonathan Wakely"
+    ], 
+    "date": "2013-04-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Shared locking in C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3659.html", 
+    "number": "N3659", 
+    "prev_version": "N3568", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "H.\u00a0Hinnant", 
+      "D.\u00a0Vollmann", 
+      "H.\u00a0Boehm"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "User-defined Literals for std::complex, part 2 of UDL for Standard Library Types\n\t\t\t\t(version 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3660.pdf", 
+    "number": "N3660", 
+    "prev_version": "N3531", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Peter Sommerlad"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Digit Separators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3661.html", 
+    "number": "N3661", 
+    "prev_version": "N3499", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "C++ Dynamic Arrays", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3662.html", 
+    "number": "N3662", 
+    "prev_version": "N3532", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "M.\u00a0Austern"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "C++ Sized Deallocation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3663.html", 
+    "number": "N3663", 
+    "prev_version": "N3536", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-04-30", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Clarifying Memory Allocation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3664.html", 
+    "number": "N3664", 
+    "prev_version": "N3537", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "C.\u00a0Carruth", 
+      "R.\u00a0Smith"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Uninterleaved String Output Streaming", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3665.html", 
+    "number": "N3665", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "L.\u00a0Crowl"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "C++ Latches and Barriers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3666.html", 
+    "number": "N3666", 
+    "prev_version": "N3600", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Alasdair Mackintosh"
+    ], 
+    "date": "2013-04-18", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Drafting for Core 1402", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3667.html", 
+    "number": "N3667", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jason Merrill"
+    ], 
+    "date": "2012-04-16", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "exchange() utility function, revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3668.html", 
+    "number": "N3668", 
+    "prev_version": "N3608", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Fixing constexpr member functions without const", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3669.pdf", 
+    "number": "N3669", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Nicolai Josuttis"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Wording for Addressing Tuples by Type: Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3670.html", 
+    "number": "N3670", 
+    "prev_version": "N3584", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "Making non-modifying sequence operations more robust: Revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3671.html", 
+    "number": "N3671", 
+    "prev_version": "N3607", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "M.\u00a0Spertus", 
+      "A.\u00a0Pall"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "A proposal to add a utility class to represent optional objects (Revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3672.html", 
+    "number": "N3672", 
+    "prev_version": "N3527", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "F.\u00a0Cacciola", 
+      "A.\u00a0Krzemie\u0144ski"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Adopted 2013-04", 
+    "title": "C++ Library Working Group Ready Issues Bristol 2013", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3673.html", 
+    "number": "N3673", 
+    "prev_version": "N3522", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Daniel Kr\u00fcgler"
+    ], 
+    "date": "2013-04-19", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Active Issues, Revision 84", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3674.html", 
+    "number": "N3674", 
+    "prev_version": "N3539", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-05-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Defect Reports and Accepted Issues, Revision 84", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3675.html", 
+    "number": "N3675", 
+    "prev_version": "N3540", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-05-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Closed Issues, Revision 84", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3676.html", 
+    "number": "N3676", 
+    "prev_version": "N3541", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-05-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Proposal to Add additional RAII Wrappers to the Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3677.html", 
+    "number": "N3677", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Andrew L. Sandoval"
+    ], 
+    "date": "2013-04-26", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Stream Guards", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3678.html", 
+    "number": "N3678", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-04-30", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Async() future destructors must wait", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3679.html", 
+    "number": "N3679", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2013-05-05", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Improving pair and tuple", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3680.html", 
+    "number": "N3680", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Daniel Kr\u00fcgler"
+    ], 
+    "date": "2013-04-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Auto and braced-init lists", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3681.html", 
+    "number": "N3681", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-05-02", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Active Issues List (Revision R02)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3682.html", 
+    "number": "N3682", 
+    "prev_version": "N3566", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-04-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Completed Issues List (Revision R02)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3683.html", 
+    "number": "N3683", 
+    "prev_version": "", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-04-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Closed Issues List (Revision R02)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3684.html", 
+    "number": "N3684", 
+    "prev_version": "N3567", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-04-29", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "string_view: a non-owning reference to a string, revision 4", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3685.html", 
+    "number": "N3685", 
+    "prev_version": "N3609", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-05-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Traversable arguments for container constructors and methods, wording revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3686.html", 
+    "number": "N3686", 
+    "prev_version": "N3513", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-05-03", 
+    "subgroups": [
+      "Ranges"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R83)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3687.html", 
+    "number": "N3687", 
+    "prev_version": "N3522", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-05-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R83)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3688.html", 
+    "number": "N3688", 
+    "prev_version": "N3523", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-05-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R83)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3689.html", 
+    "number": "N3689", 
+    "prev_version": "N3524", 
+    "mailing_date": "2013-05", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-05-06", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Programming Languages - C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3690.pdf", 
+    "number": "N3690", 
+    "prev_version": "N3691", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Stefanus Du Toit"
+    ], 
+    "date": "2013-05-15", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3691.pdf", 
+    "number": "N3691", 
+    "prev_version": "N3485", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Stefanus Du Toit"
+    ], 
+    "date": "2013-05-16", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Editor's Report, October 2012", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3692.html", 
+    "number": "N3692", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Stefanus Du Toit"
+    ], 
+    "date": "2013-05-16", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, Technical Specification -- File System", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3693.html", 
+    "number": "N3693", 
+    "prev_version": "N3505", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2013-06-28", 
+    "subgroups": [
+      "Filesystem"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Feature-testing recommendations for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3694.htm", 
+    "number": "N3694", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2013-06-27", 
+    "subgroups": [
+      "Feature test"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SG5: Transactional Memory (TM) Meeting Minutes 2013/03/11-2013/06/10", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3695.pdf", 
+    "number": "N3695", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2013-06-28", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposal to extend atomic with priority update functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3696.htm", 
+    "number": "N3696", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Bronek Kozicki"
+    ], 
+    "date": "2013-06-26", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Business Plan and Convener's Report", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3697.htm", 
+    "number": "N3697", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-06-25", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "July 25-26 Santa Clara SG1 Meeting Announcement and Agenda", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3698.html", 
+    "number": "N3698", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2013-06-30", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "A proposal to add a generalized callable negator", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3699.html", 
+    "number": "N3699", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Tomasz Kami\u0144ski"
+    ], 
+    "date": "2013-05-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Hierarchical Data Structures and Related Concepts for the C++ Standard Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3700.html", 
+    "number": "N3700", 
+    "prev_version": "N2101", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "B.\u00a0Reiter", 
+      "R.\u00a0Rivera"
+    ], 
+    "date": "2013-06-22", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Concepts Lite", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3701.pdf", 
+    "number": "N3701", 
+    "prev_version": "N3580", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "A.\u00a0Sutton", 
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2013-06-28", 
+    "subgroups": [
+      "Concepts"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Introducing an optional parameter for mem_fn, which allows to bind an object to\n\t\t\t\tits member function", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3702.htm", 
+    "number": "N3702", 
+    "prev_version": "", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Mikhail Semenov"
+    ], 
+    "date": "2013-06-28", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Extending std::search to use Additional Searching Algorithms (Version 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3703.html", 
+    "number": "N3703", 
+    "prev_version": "N3606", 
+    "mailing_date": "2013-07", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2013-06-28", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "AGENDA, PL22.16 Meeting No. 61, WG21 Meeting No. 56, September 23-28, 2013 - Chicago,\n\t\t\t\tIL, USA", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3704.pdf", 
+    "number": "N3704", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2013-07-13", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Agenda and Meeting Notice for WG21 Telecon Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3705.htm", 
+    "number": "N3705", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-07-23", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Distributed Counters", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3706.html", 
+    "number": "N3706", 
+    "prev_version": "N3355", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-09-01", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "2014-02 Meeting Invitation and Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3707.pdf", 
+    "number": "N3707", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-08-06", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "A proposal to add coroutines to the C++ standard library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3708.pdf", 
+    "number": "N3708", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "O.\u00a0Kowalke", 
+      "N.\u00a0Godspeed"
+    ], 
+    "date": "2013-03-04", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes for July 2013 Santa Clara SG1 Meeting", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3709.html", 
+    "number": "N3709", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "H..\u00a0Boehm", 
+      "J.\u00a0Hoberock", 
+      "A.\u00a0Mackintosh"
+    ], 
+    "date": "2013-08-29", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Specifying the absence of \"out of thin air\" results (LWG2265)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3710.html", 
+    "number": "N3710", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "H.\u00a0Boehm", 
+      "et al."
+    ], 
+    "date": "2013-08-29", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Task Groups As a Lower Level C++ Library Solution To Fork-Join Parallelism", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3711.pdf", 
+    "number": "N3711", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "A.\u00a0Laksberg", 
+      "H.\u00a0Sutter"
+    ], 
+    "date": "2013-08-15", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Policy-Based Design for Safe Destruction in Concurrent Containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3712.pdf", 
+    "number": "N3712", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Arch D. Robison"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Active Issues, Revision 85", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3713.html", 
+    "number": "N3713", 
+    "prev_version": "N3674", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Defect Reports and Accepted Issues, Revision 85", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3714.html", 
+    "number": "N3714", 
+    "prev_version": "N3675", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Closed Issues, Revision 85", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3715.html", 
+    "number": "N3715", 
+    "prev_version": "N3676", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A printf-like Interface for the Streams Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3716.html", 
+    "number": "N3716", 
+    "prev_version": "N3506", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2013-08-18", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SG5: Transactional Memory (TM) Meeting Minutes 2013/06/24-2013/08/26", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3717.pdf", 
+    "number": "N3717", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Michael Wong"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Transactional Memory Support for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3718.pdf", 
+    "number": "N3718", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "M.\u00a0Wong", 
+      "V.\u00a0Luchangco", 
+      "J.\u00a0Maurer", 
+      "M.\u00a0Moir", 
+      "et al."
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Extend INVOKE to support types convertible to target class", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3719.html", 
+    "number": "N3719", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Tomasz Kami\u0144ski"
+    ], 
+    "date": "2013-08-17", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Working Draft Technical Specification - URI", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3720.html", 
+    "number": "N3720", 
+    "prev_version": "N3625", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "G.\u00a0Matthews", 
+      "D.\u00a0Berris"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Improvements to std::future<T> and Related APIs", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3721.pdf", 
+    "number": "N3721", 
+    "prev_version": "N3634", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "N.\u00a0Gustafsson", 
+      "A.\u00a0Laksberg", 
+      "H.\u00a0Sutter", 
+      "S.\u00a0Mithani"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Resumable Functions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3722.pdf", 
+    "number": "N3722", 
+    "prev_version": "N3650", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "N.\u00a0Gustafsson", 
+      "D.\u00a0Brewis", 
+      "H.\u00a0Sutter", 
+      "S.\u00a0Mithani"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Extend operator-> to support rvalues", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3723.html", 
+    "number": "N3723", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Pascal Constanza"
+    ], 
+    "date": "2013-08-23", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Parallel Algorithms Library", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3724.pdf", 
+    "number": "N3724", 
+    "prev_version": "N3554", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "J.\u00a0Hoberock", 
+      "O.\u00a0Giroux", 
+      "V.\u00a0Grover", 
+      "H.\u00a0Sutter", 
+      "et\u00a0al."
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Original Draft Specification of Transactional Language Constructs for C++ Version\n\t\t\t\t1.1 (February 3, 2012)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3725.pdf", 
+    "number": "N3725", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "M.\u00a0Wong", 
+      "A.\u00a0Adl-Tabatabai", 
+      "T.\u00a0Shpeisman", 
+      "J.\u00a0Gottschlich"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Polymorphic Memory Resources", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3726.pdf", 
+    "number": "N3726", 
+    "prev_version": "N3525", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2013-09-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A proposal to add invoke function template", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3727.html", 
+    "number": "N3727", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Tomasz Kami\u0144ski"
+    ], 
+    "date": "2013-08-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Packaging Parameter Packs (Rev. 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3728.html", 
+    "number": "N3728", 
+    "prev_version": "N3416", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Invocation type traits", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3729.html", 
+    "number": "N3729", 
+    "prev_version": "N3579", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2013-09-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Specializations and namespaces", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3730.html", 
+    "number": "N3730", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Mike Spertus"
+    ], 
+    "date": "2013-08-28", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Executors and schedulers, revision 2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3731.pdf", 
+    "number": "N3731", 
+    "prev_version": "N3562", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "C.\u00a0Mysen", 
+      "N.\u00a0Gustafsson"
+    ], 
+    "date": "2013-08-25", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Value-Oriented Concurrent Unordered Containers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3732.pdf", 
+    "number": "N3732", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "A.\u00a0Robison", 
+      "A.\u00a0Potapov", 
+      "A.\u00a0Malakhov"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "ISO/IEC CD 14882, C++ 2014, National Body Comments", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3733.pdf", 
+    "number": "N3733", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Barry Hedquist"
+    ], 
+    "date": "2013-08-26", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Vector Programming: A proposal for WG21", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3734.pdf", 
+    "number": "N3734", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Robert Geva"
+    ], 
+    "date": "2013-09-02", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "On the difference between parallel loops and vector loops", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3735.pdf", 
+    "number": "N3735", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Robert Geva"
+    ], 
+    "date": "2013-09-02", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Active Issues List (Revision R03)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3736.html", 
+    "number": "N3736", 
+    "prev_version": "N3682", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-08-27", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Completed Issues List (Revision R03)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3737.html", 
+    "number": "N3737", 
+    "prev_version": "N3683", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-08-27", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Closed Issues List (Revision R03)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3738.html", 
+    "number": "N3738", 
+    "prev_version": "N3684", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-08-27", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Improving pair and tuple, revision 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3739.html", 
+    "number": "N3739", 
+    "prev_version": "N3680", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Daniel Kr\u00fcgler"
+    ], 
+    "date": "2013-09-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Proposal for the World's Dumbest Smart Pointer, v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3740.pdf", 
+    "number": "N3740", 
+    "prev_version": "N3514", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Toward Opaque Typedefs for C++1Y, v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3741.pdf", 
+    "number": "N3741", 
+    "prev_version": "N3515", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Three <random>-related Proposals, v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3742.pdf", 
+    "number": "N3742", 
+    "prev_version": "N3547", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Conditionally-supported Special Math Functions for C++14, v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3743.pdf", 
+    "number": "N3743", 
+    "prev_version": "N3548", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposing [[pure]]", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3744.pdf", 
+    "number": "N3744", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Feature-testing recommendations for C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3745.htm", 
+    "number": "N3745", 
+    "prev_version": "N3694", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Clark Nelson"
+    ], 
+    "date": "2013-08-28", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposing a C++1Y Swap Operator, v2", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3746.pdf", 
+    "number": "N3746", 
+    "prev_version": "N3553", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A Universal Model for Asynchronous Operations", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3747.pdf", 
+    "number": "N3747", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Christopher Kohlhoff"
+    ], 
+    "date": "2013-09-01", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Implicit Evaluation of \"auto\" Variables and Arguments", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3748.pdf", 
+    "number": "N3748", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "P.\u00a0Gottschling", 
+      "J.\u00a0Falcou", 
+      "H.\u00a0Sutter"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Constexpr Library Additions: functional", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3749.htm", 
+    "number": "N3749", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2013-08-31", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Ostream Buffers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3750.html", 
+    "number": "N3750", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-09-01", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Object Lifetime, Low-level Programming, and memcpy", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3751.pdf", 
+    "number": "N3751", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Gabriel Dos Reis"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Undefined behavior"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Index Based Ranges", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3752.pdf", 
+    "number": "N3752", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "A.\u00a0Sh\u00f6dl", 
+      "F.\u00a0Fracassi"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Ranges"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "Centralized Defensive-Programming Support for Narrow Contracts (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3753.pdf", 
+    "number": "N3753", 
+    "prev_version": "N3604", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "J.\u00a0Lakos", 
+      "A.\u00a0Zakharov"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R84)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3754.html", 
+    "number": "N3754", 
+    "prev_version": "N3687", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R84)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3755.html", 
+    "number": "N3755", 
+    "prev_version": "N3688", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R84)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3756.html", 
+    "number": "N3756", 
+    "prev_version": "N3689", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Support for user-defined exception information and diagnostic information in std::exception", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3757.html", 
+    "number": "N3757", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Emil Dotchevski"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Standard exception information types for std::exception", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3758.html", 
+    "number": "N3758", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Emil Dotchevski"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SIMD Vector Types", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3759.html", 
+    "number": "N3759", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Matthias Kretz"
+    ], 
+    "date": "2013-08-30", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "[[deprecated]] attribute", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3760.html", 
+    "number": "N3760", 
+    "prev_version": "N3394", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Alberto Ganesh Barbati"
+    ], 
+    "date": "2013-09-01", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposing type_at<>", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3761.html", 
+    "number": "N3761", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Sean Middleditch"
+    ], 
+    "date": "2013-08-29", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "string_view: a non-owning reference to a string, revision 5", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3762.html", 
+    "number": "N3762", 
+    "prev_version": "N3685", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-09-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Traversable arguments for container constructors and methods, wording revision 4", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3763.html", 
+    "number": "N3763", 
+    "prev_version": "N3686", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-09-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Ruminations on relational operators", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3764.html", 
+    "number": "N3764", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-09-02", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "On Optional", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3765.pdf", 
+    "number": "N3765", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Tony Van Eerd"
+    ], 
+    "date": "2013-09-01", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "The identity type transformation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3766.html", 
+    "number": "N3766", 
+    "prev_version": "", 
+    "mailing_date": "2013-09", 
+    "authors": [
+      "Jeffrey Yasskin"
+    ], 
+    "date": "2013-09-03", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Teleconference Minutes (September 2013)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3767.pdf", 
+    "number": "N3767", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-09-13", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes (September 2013)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3768.pdf", 
+    "number": "N3768", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-10-16", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Minutes: PL22.16 Meeting No. 61, 2013-09 Chicago Minutes", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3769.pdf", 
+    "number": "N3769", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Kyle Kloepper"
+    ], 
+    "date": "2013-12-14", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ CD Comment Status, Rev. 1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3770.html", 
+    "number": "N3770", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Canadian C++14 Comments", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3771.pdf", 
+    "number": "N3771", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "H.\u00a0Tong", 
+      "M.\u00a0Wong"
+    ], 
+    "date": "2013-09-22", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "Changing the type of address-of-member expression", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3772.pdf", 
+    "number": "N3772", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "David Rodr\u00edguez Ibeas"
+    ], 
+    "date": "2013-09-05", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "Revised", 
+    "title": "async and ~future (Revision 4)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3773.pdf", 
+    "number": "N3773", 
+    "prev_version": "N3637", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-09-12", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Needs Language Support For Vectorization", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3774.pdf", 
+    "number": "N3774", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "A.\u00a0Naumann", 
+      "S.\u00a0Wenzel"
+    ], 
+    "date": "2013-09-19", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Deprecating rand() and Friends", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3775.pdf", 
+    "number": "N3775", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Walter E. Brown"
+    ], 
+    "date": "2013-09-25", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Wording for ~future", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3776.pdf", 
+    "number": "N3776", 
+    "prev_version": "N3773", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-09-23", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Wording for deprecating async", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3777.pdf", 
+    "number": "N3777", 
+    "prev_version": "N3773", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Herb Sutter"
+    ], 
+    "date": "2013-09-23", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Sized Deallocation", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3778.html", 
+    "number": "N3778", 
+    "prev_version": "N3663", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-09-27", 
+    "subgroups": [
+      "Core", 
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "User-defined Literals for std::complex", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3779.pdf", 
+    "number": "N3779", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Peter Sommerlad"
+    ], 
+    "date": "2013-09-24", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Why Deprecating async() is the Worst of all Options", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3780.pdf", 
+    "number": "N3780", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Nico Josuttis"
+    ], 
+    "date": "2013-09-26", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Single-Quotation-Mark as a Digit Separator", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3781.pdf", 
+    "number": "N3781", 
+    "prev_version": "N3448", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "L.\u00a0Crowl", 
+      "R.\u00a0Smith", 
+      "J.\u00a0Snyder", 
+      "D.\u00a0Vandevoorde"
+    ], 
+    "date": "2013-09-25", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Index Based Ranges (Rev. 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3782.pdf", 
+    "number": "N3782", 
+    "prev_version": "N3752", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "A.\u00a0Sh\u00f6dl", 
+      "F.\u00a0Fracassi"
+    ], 
+    "date": "2013-09-24", 
+    "subgroups": [
+      "Ranges"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Network Byte Order Conversion", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3783.pdf", 
+    "number": "N3783", 
+    "prev_version": "N3646", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Robert Pratte"
+    ], 
+    "date": "2013-09-27", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Improvements to std::future<T> and Related APIs", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3784.pdf", 
+    "number": "N3784", 
+    "prev_version": "N3721", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "N.\u00a0Gustafsson", 
+      "A.\u00a0Laksberg", 
+      "H.\u00a0Sutter", 
+      "S.\u00a0Mithani"
+    ], 
+    "date": "2013-09-27", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Executors and schedulers, revision 3", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3785.pdf", 
+    "number": "N3785", 
+    "prev_version": "N3731", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "C.\u00a0Mysen", 
+      "N.\u00a0Gustafsson", 
+      "M.\u00a0Austern", 
+      "J.\u00a0Yasskin"
+    ], 
+    "date": "2013-10-08", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Prohibiting \"out of thin air\" results in C++14", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3786.htm", 
+    "number": "N3786", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Hans-J. Boehm"
+    ], 
+    "date": "2013-09-24", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "What can signal handlers do? (CWG 1441)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3787.html", 
+    "number": "N3787", 
+    "prev_version": "N3633", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Hans Boehm"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Immediate issues", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3788.html", 
+    "number": "N3788", 
+    "prev_version": "N3754", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-09-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Constexpr Library Additions: functional", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3789.htm", 
+    "number": "N3789", 
+    "prev_version": "N3749", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Marshall Clow"
+    ], 
+    "date": "2013-09-27", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, Technical Specification -- File System", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3790.html", 
+    "number": "N3790", 
+    "prev_version": "N3693", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2013-09-27", 
+    "subgroups": [
+      "Filesystem"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Lightweight Drawing Library - Objectives, Requirements, Strategies", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3791.html", 
+    "number": "N3791", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2013-10-11", 
+    "subgroups": [
+      "Graphics"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft Technical Specification - URI", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3792.html", 
+    "number": "N3792", 
+    "prev_version": "N3720", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "G.\u00a0Matthews", 
+      "D.\u00a0Berris"
+    ], 
+    "date": "2013-10-11", 
+    "subgroups": [
+      "Networking"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A proposal to add a utility class to represent optional objects (Revision 5)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3793.html", 
+    "number": "N3793", 
+    "prev_version": "N3672", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "F.\u00a0Cacciola", 
+      "A.\u00a0Krzemie\u0144ski"
+    ], 
+    "date": "2013-10-03", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposal to Add Multi-Dimensional Support to std::array", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3794.html", 
+    "number": "N3794", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Daryle Walker"
+    ], 
+    "date": "2013-10-10", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "A more common version of algorithm std::partition_copy", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3795.htm", 
+    "number": "N3795", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Vladimir Grigoriev"
+    ], 
+    "date": "2013-09-16", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "std::rand replacement", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3796.html", 
+    "number": "N3796", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Zhihao Yuan"
+    ], 
+    "date": "2013-10-02", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, Standard for Programming Language C++", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3797.pdf", 
+    "number": "N3797", 
+    "prev_version": "N3691", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Stefanus Du Toit"
+    ], 
+    "date": "2013-10-13", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Editor's Report, October 2013", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3798.html", 
+    "number": "N3798", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Stefanus Du Toit"
+    ], 
+    "date": "2013-10-13", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "AGENDA: PL22.16 Meeting No. 62, WG21 Meeting No. 57, February 10-15, 2014 - Issaquah,\n\t\t\t\tWA, USA", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3799.pdf", 
+    "number": "N3799", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Stephen D. Clamage"
+    ], 
+    "date": "2013-10-07", 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "A proposal to add a generalized callable negator (Revision 1)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3800.html", 
+    "number": "N3800", 
+    "prev_version": "N3699", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Tomasz Kami\u0144ski"
+    ], 
+    "date": "2013-09-16", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Removing Undefined Behavior from the Preprocessor", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3801.pdf", 
+    "number": "N3801", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Gabriel Dos Reis"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Undefined behavior", 
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "apply() call a function with arguments from a tuple", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3802.pdf", 
+    "number": "N3802", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Peter Sommerlad"
+    ], 
+    "date": "2013-10-08", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Programming Languages -- C++ Standard Library -- File System Technical Specification", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3803.pdf", 
+    "number": "N3803", 
+    "prev_version": "N3790", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Beman Dawes"
+    ], 
+    "date": "2013-10-05", 
+    "subgroups": [
+      "Filesystem"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Any Library Proposal (Revision 3)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3804.html", 
+    "number": "N3804", 
+    "prev_version": "N3508", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "B.\u00a0Dawes", 
+      "K.\u00a0Henney", 
+      "D.\u00a0Kr\u00fcgler"
+    ], 
+    "date": "2013-10-09", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "SPRING 2014 JTC1/SC22/WG21 C++ STANDARDS COMMITTEE MEETING: Preliminary Information", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n3805.pdf", 
+    "number": "N3805", 
+    "prev_version": "N3569", 
+    "mailing_date": null, 
+    "authors": [
+      "Peter Sommerlad"
+    ], 
+    "date": null, 
+    "subgroups": []
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Active Issues, Revision 86", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3806.html", 
+    "number": "N3806", 
+    "prev_version": "N3713", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Defect Reports and Accepted Issues, Revision 86", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3807.html", 
+    "number": "N3807", 
+    "prev_version": "N3714", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Core Language Closed Issues, Revision 86", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3808.html", 
+    "number": "N3808", 
+    "prev_version": "N3715", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "William M. Miller"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Core"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Proposal for Unbounded-Precision Integer Types", 
+    "url": null, 
+    "number": "N3809", 
+    "prev_version": "N3542", 
+    "mailing_date": null, 
+    "authors": [
+      "Pete Becker"
+    ], 
+    "date": null, 
+    "subgroups": [
+      "Numerics"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Alternatives for Array Extensions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3810.pdf", 
+    "number": "N3810", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Bjarne Stroustrup"
+    ], 
+    "date": "2013-10-13", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Active Issues List (Revision R04)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3811.html", 
+    "number": "N3811", 
+    "prev_version": "N3736", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-10-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Completed Issues List (Revision R04)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3812.html", 
+    "number": "N3812", 
+    "prev_version": "N3737", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-10-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Evolution Closed Issues List (Revision R04)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3813.html", 
+    "number": "N3813", 
+    "prev_version": "N3738", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Ville Voutilainen"
+    ], 
+    "date": "2013-10-12", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Call for Compile-Time Reflection Proposals", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3814.html", 
+    "number": "N3814", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "J.\u00a0Snyder", 
+      "C.\u00a0Carruth"
+    ], 
+    "date": "2013-10-06", 
+    "subgroups": [
+      "Reflection"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Enumerator List Property Queries", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3815.html", 
+    "number": "N3815", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "A.\u00a0Tomazos", 
+      "C.\u00a0K\u00e4ser"
+    ], 
+    "date": "2013-10-03", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Polymorphic Memory Resources - r1", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3816.pdf", 
+    "number": "N3816", 
+    "prev_version": "N3726", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Pablo Halpern"
+    ], 
+    "date": "2013-10-13", 
+    "subgroups": [
+      "Library Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Latches and Barriers", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3817.html", 
+    "number": "N3817", 
+    "prev_version": "N3666", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Alasdair Mackintosh"
+    ], 
+    "date": "2013-10-11", 
+    "subgroups": [
+      "Concurrency"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Centralized Defensive-Programming Support for Narrow Contracts (Revision 2)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3818.pdf", 
+    "number": "N3818", 
+    "prev_version": "N3753", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "J.\u00a0Lakos", 
+      "A.\u00a0Zakharov"
+    ], 
+    "date": "2013-10-11", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Concepts Lite Specification", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3819.pdf", 
+    "number": "N3819", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "A.\u00a0Sutton", 
+      "B.\u00a0Stroustrup", 
+      "G.\u00a0Dos\u00a0Reis"
+    ], 
+    "date": "2013-10-11", 
+    "subgroups": [
+      "Concepts"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "Working Draft, Technical Specification -- Array Extensions", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3820.html", 
+    "number": "N3820", 
+    "prev_version": "", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Lawrence Crowl"
+    ], 
+    "date": "2013-10-10", 
+    "subgroups": [
+      "Evolution"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Active Issues List (Revision R85)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3821.html", 
+    "number": "N3821", 
+    "prev_version": "N3754", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Defect Report List (Revision R85)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3822.html", 
+    "number": "N3822", 
+    "prev_version": "N3755", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }, 
+  {
+    "disposition": "", 
+    "title": "C++ Standard Library Closed Issues List (Revision R85)", 
+    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3823.html", 
+    "number": "N3823", 
+    "prev_version": "N3756", 
+    "mailing_date": "2013-10", 
+    "authors": [
+      "Alisdair Meredith"
+    ], 
+    "date": "2013-10-14", 
+    "subgroups": [
+      "Library"
+    ]
+  }
+]
