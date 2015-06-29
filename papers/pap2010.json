@@ -3274,39 +3274,5 @@
     "subgroups": [
       "Library"
     ]
-  },
-
-    {
-        "disposition": null,
-        "number": "N3126",
-        "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2010/n3126.pdf",
-        "title": "Working Draft, Standard for Programming Language C++",
-        "authors": ["Pete Becker"],
-        "date": "2010-08-21",
-        "mailing_date": "2010-08",
-        "prev_version": "N3090",
-        "subgroups": []
-    },
-    {
-        "disposition": null,
-        "number": "N3176",
-        "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2010/n3176.html",
-        "title": "C++ Standard Library Defect Report List (Revision R72)",
-        "authors": ["Alisdair Meredith"],
-        "date": "2010-10-18",
-        "mailing_date": "2010-10",
-        "prev_version": "N3134",
-        "subgroups": ["Library"]
-    },
-    {
-        "disposition": null,
-        "number": "N3225",
-        "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2010/n3225.pdf",
-        "title": "Working Draft, Standard for Programming Language C++",
-        "authors": ["Pete Becker"],
-        "date": "2010-11-27",
-        "mailing_date": "2010-11",
-        "prev_version": "N3126",
-        "subgroups": []
-    }
+  }
 ]

@@ -17,13 +17,12 @@ OK
 
 2011
 ----
-TODO:
-Error when parsing doc 'N3232': 'utf8' codec can't decode byte 0xed in position 5: invalid continuation byte [J16TableParser]
-Error when parsing doc 'N3242': Wrong number of columns [J16TableParser]
-Error when parsing doc 'N3302': Wrong number of columns [J16TransitionTableParser]
-Error when parsing doc 'N3303': Wrong number of columns [J16TransitionTableParser]
-Error when parsing doc 'N3304': Wrong number of columns [J16TransitionTableParser]
-Error when parsing doc 'N3305': Wrong number of columns [J16TransitionTableParser]
++Error when parsing doc 'N3232': 'utf8' codec can't decode byte 0xed in position 5: invalid continuation byte [J16TableParser]
++Error when parsing doc 'N3242': Wrong number of columns [J16TableParser]
++Error when parsing doc 'N3302': Wrong number of columns [J16TransitionTableParser]
++Error when parsing doc 'N3303': Wrong number of columns [J16TransitionTableParser]
++Error when parsing doc 'N3304': Wrong number of columns [J16TransitionTableParser]
++Error when parsing doc 'N3305': Wrong number of columns [J16TransitionTableParser]
 
 2010
 ----

@@ -1196,20 +1196,6 @@
     "subgroups": []
   },
   {
-    "disposition": null,
-    "title": "C++ Standard Core Language Active Issues, Revision 36",
-    "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1818.html",
-    "number": "N1818",
-    "prev_version": "N1786",
-    "mailing_date": "2005-06",
-    "authors": [
-      "William M. Miller"
-    ],
-    "date": "2005-06-27",
-    "subgroups": ["Core"],
-    "comments": "Check, was created manually"
-  },
-  {
     "disposition": null, 
     "title": "C++ Standard Core Language Defect Reports, Revision 36", 
     "url": "http://www.open-std.org/jtc1/sc22/wg21/prot/14882fdis/n1819.html", 

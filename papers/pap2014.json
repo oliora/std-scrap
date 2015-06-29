@@ -7858,17 +7858,5 @@
     "subgroups": [
       ""
     ]
-  },
-    {
-    "disposition": "",
-    "title": "Propogate_const",
-    "url": null,
-    "number": "N4264",
-    "prev_version": "N4209",
-    "mailing_date": null,
-    "authors": ["Jonathan Coe"],
-    "date": null,
-    "subgroups": ["Library"],
-    "comment": "Check. Was added manually"
   }
 ]

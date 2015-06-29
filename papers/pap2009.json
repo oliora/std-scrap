@@ -1018,39 +1018,6 @@
   }, 
   {
     "disposition": null, 
-    "title": "C++ object lifetime interactions with the threads API", 
-    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2009/n2880.html", 
-    "number": "N2880", 
-    "prev_version": "", 
-    "mailing_date": "2009-05", 
-    "authors": [
-      "H.-J.\u00a0Boehm", 
-      "L.\u00a0Crowl"
-    ], 
-    "date": "2009-05-01", 
-    "subgroups": [
-      "Core", 
-      "Library"
-    ]
-  }, 
-  {
-    "disposition": null, 
-    "title": "Base Class Aliases for The-C++-After-0x", 
-    "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2009/n2881.html", 
-    "number": "N2881", 
-    "prev_version": "", 
-    "mailing_date": "2009-05", 
-    "authors": [
-      "J.\u00a0Widman", 
-      "T.\u00a0Ottosen"
-    ], 
-    "date": "2009-04-28", 
-    "subgroups": [
-      "Evolution"
-    ]
-  }, 
-  {
-    "disposition": null, 
     "title": "2009 PL22.16/WG21 document list", 
     "url": "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2009/sd-1.htm", 
     "number": "SD-1", 
