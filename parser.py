@@ -10,6 +10,12 @@ import re
 import urlparse
 
 
+"""
+TODO:
+# Skip docs with empty number
+"""
+
+
 class Doc(object):
     def __init__(self, number, title, authors,
                  url=None, date=None, mailing_date=None,
@@ -81,7 +87,7 @@ def parse_disposition(e):
     
 
 def parse_date(e):
-    txt = parse_plain(e)
+    txt = e.text_content().strip()
     if not txt or txt.lower() == 'missing':
         return None
     m = _date_re.match(txt)
@@ -362,7 +368,7 @@ def main():
             print('\nParsed {0} documents from {1} URLs. {2} errors detected'.format(
                 len(docs), len(args.url), len(errors)))
         else:
-            print('\nParsed {0} documents from {1} URLs. No errors detected'.format(
+            print('Parsed {0} documents from {1} URLs. No errors detected'.format(
                 len(docs), len(args.url)))
 
     sys.exit(0 if not errors else 1 if docs else 2)
